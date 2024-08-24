@@ -2,7 +2,7 @@
 - 👀 I'm passionate about Data Science, Deep Learning, Statistics, and Survival Analysis
 - 🌱 Currently, I'm expanding the field of survival analysis through deep learning-based methods
 - 💞️ I'm eager to collaborate on innovative projects in these areas
-- 📫 You can reach me at emmanueldjegou5@gmail.com
+- 📫 You can reach me at emdwmt@mst.edu
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I'm always full of energy!
 
