@@ -1,8 +1,9 @@
 - 👋 Hi, I'm Emmanuel Masavo DJEGOU
 - 👀 I'm passionate about Data Science, Deep Learning, Statistics, and Survival Analysis
 - 🌱 Currently, I'm expanding the field of survival analysis through deep learning-based methods
+- 💼 Mission: I am dedicated to advancing the field of data science by tackling complex challenges and driving meaningful change through innovative solutions
 - 💞️ I'm eager to collaborate on innovative projects in these areas
-- 📫 You can reach me at emdwmt@mst.edu
+- 📫 You can reach me at emmanueldjegou5@gmail.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I'm always full of energy!
 
