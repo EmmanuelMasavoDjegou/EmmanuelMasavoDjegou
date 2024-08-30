@@ -5,7 +5,7 @@
 - 💞️ I'm eager to collaborate on innovative projects in Data Sciene.
 - 📫 You can reach me at emdwmt@mst.edu.
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I'm always full of energy!
+- ⚡ Fun fact: Curious and full of creativity!
 
 <!---
 EmmanuelMasavoDjegou/EmmanuelMasavoDjegou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
