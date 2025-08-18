@@ -16,7 +16,7 @@
 
 ## 📊 GitHub Stats & Analytics
 
-![Most Used Language](https://img.shields.io/github/languages/top/EmmanuelMasavoDjegou/EFFICIENT_ESTIMATION_IN_SEMIPARAMETRIC_ACCELERATED_LIFE_MODELS_FOR_RECURRENT_EVENTS)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelMasavoDjegou&layout=compact)
 
 ![EmmanuelMasavoDjegou's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmmanuelMasavoDjegou&show_icons=true&hide_title=true)
 
