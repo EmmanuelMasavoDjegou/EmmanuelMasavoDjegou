@@ -12,6 +12,12 @@
 - **Ph.D.-Level Expertise:** Neural Networks, Accelerated Life Models, Recurrent Events
 - **Bilingual:** `English`, `French` 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelMasavoDjegou&layout=compact)
+
+
+
+
+
 
 <!---
 EmmanuelMasavoDjegou/EmmanuelMasavoDjegou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
