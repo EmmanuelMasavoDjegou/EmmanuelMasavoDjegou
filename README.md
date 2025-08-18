@@ -1,8 +1,6 @@
 - 👋 Hi, I'm Emmanuel DJEGOU.
-- **🎓 Ph.D. Candidate in Statistics | Missouri S&T**  
-- **📧 Email:** [emdwmt@mst.edu](mailto:emdwmt@mst.edu)  
-- **🔗 LinkedIn:** [linkedin.com/in/emmanuel-djegou-5652b2254](https://www.linkedin.com/in/emmanuel-djegou-5652b2254/)
-
+- **🎓 Ph.D. Candidate in Statistics | Missouri S&T**
+  
 ---
 
 ## 🌟 Top Technical Skills
