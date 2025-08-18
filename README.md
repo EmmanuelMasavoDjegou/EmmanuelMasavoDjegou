@@ -22,7 +22,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=EmmanuelMasavoDjegou)
 
-[![Twitter](https://img.shields.io/badge/Twitter-@EmmanuelDjegou-blue?style=flat&logo=twitter&logoColor=white)](https://x.com/EmmanuelDj95381)
+[![Twitter](https://img.shields.io/badge/Twitter-EmmanuelDjegou-blue?style=flat&logo=twitter&logoColor=white)](https://x.com/EmmanuelDj95381)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-EmmanuelDjegou-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-djegou-5652b2254/)
 
 
