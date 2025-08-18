@@ -12,7 +12,7 @@
 - **Ph.D.-Level Expertise:** Neural Networks, Accelerated Life Models, Recurrent Events
 - **Bilingual:** `English`, `French` 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelMasavoDjegou&layout=compact)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelMasavoDjegou&langs_count=10&layout=compact)
 
 
 
