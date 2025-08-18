@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Emmanuel DJEGOU.
 - **🎓 Ph.D. Candidate in Statistics | Missouri S&T**
-  
+[![Email](https://img.shields.io/badge/Email-emmasavo.djegou%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:emmasavo.djegou@gmail.com)
 ---
 
 ## 🌟 Top Technical Skills
@@ -25,8 +25,6 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-EmmanuelDjegou-blue?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/emmanuelmasavodjegou)
 [![Instagram](https://img.shields.io/badge/Instagram-EmmanuelDjegou-purple?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/emmasavodjegou/)
 [![Twitter](https://img.shields.io/badge/Twitter-EmmanuelDjegou-blue?style=flat&logo=twitter&logoColor=white)](https://x.com/EmmanuelDj95381)
-[![Email](https://img.shields.io/badge/Email-emmasavo.djegou%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:emmasavo.djegou@gmail.com)
-
 
 
 <!---
