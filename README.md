@@ -12,9 +12,21 @@
 - **Ph.D.-Level Expertise:** Neural Networks, Accelerated Life Models, Recurrent Events
 - **Bilingual:** `English`, `French` 
 
+---
+
+## 📊 GitHub Stats & Analytics
+
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelMasavoDjegou&langs_count=10&layout=compact)
 
+![Most Used Language](https://img.shields.io/github/languages/top/EmmanuelMasavoDjegou/EFFICIENT_ESTIMATION_IN_SEMIPARAMETRIC_ACCELERATED_LIFE_MODELS_FOR_RECURRENT_EVENTS)
 
+![EmmanuelMasavoDjegou's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmmanuelMasavoDjegou&show_icons=true&hide_title=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=EmmanuelMasavoDjegou)
+
+![Repo Size](https://img.shields.io/github/repo-size/EmmanuelMasavoDjegou/EFFICIENT_ESTIMATION_IN_SEMIPARAMETRIC_ACCELERATED_LIFE_MODELS_FOR_RECURRENT_EVENTS)
+
+![Last Commit](https://img.shields.io/github/last-commit/EmmanuelMasavoDjegou/EFFICIENT_ESTIMATION_IN_SEMIPARAMETRIC_ACCELERATED_LIFE_MODELS_FOR_RECURRENT_EVENTS)
 
 
 
