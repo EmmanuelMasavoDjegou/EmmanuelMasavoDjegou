@@ -24,13 +24,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=EmmanuelMasavoDjegou)
 
-![Repo Size](https://img.shields.io/github/repo-size/EmmanuelMasavoDjegou/EFFICIENT_ESTIMATION_IN_SEMIPARAMETRIC_ACCELERATED_LIFE_MODELS_FOR_RECURRENT_EVENTS)
-
-![Last Commit](https://img.shields.io/github/last-commit/EmmanuelMasavoDjegou/EFFICIENT_ESTIMATION_IN_SEMIPARAMETRIC_ACCELERATED_LIFE_MODELS_FOR_RECURRENT_EVENTS)
-
-
-
-
 <!---
 EmmanuelMasavoDjegou/EmmanuelMasavoDjegou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
