@@ -1,5 +1,6 @@
 - 👋 Hi, I'm Emmanuel DJEGOU.
 - **🎓 Ph.D. Candidate in Statistics | Missouri S&T**
+  
 [![Email](https://img.shields.io/badge/Email-emmasavo.djegou%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:emmasavo.djegou@gmail.com)
 ---
 
