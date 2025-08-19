@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Emmanuel DJEGOU.
 - 💼 **Ex-Data Science Intern @ RGA**
-- 🎓 **Ph.D. Candidate in Statistics @ Missouri S&T**
+- 🎓 **Ph.D. Candidate in Statistics | Graduate Teaching Assistant @ Missouri S&T**
 - 📧 **Email:** [emmanueldjegou5@gmail@.com](mailto:emmanueldjegou5@gmail.com)  
 ---
 
