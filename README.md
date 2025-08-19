@@ -5,7 +5,7 @@ Welcome to my GitHub! I’m passionate about statistical innovation and data-dri
 ## 👨‍💻 About Me
 - 💼 **Ex-Data Science Intern @ RGA**  
 - 🎓 **Ph.D. Candidate in Statistics @ Missouri S&T**  
-- 📫 **Email:** [emmanueldjegou5@gmail.com](mailto:emmanueldjegou5@gmail.com)
+[![Email](https://img.shields.io/badge/email-emmanueldjegou5@gmail.com-blue?logo=gmail&logoColor=white&style=for-the-badge)](mailto:emmanueldjegou5@gmail.com)
 ---
 
 ## 🌟 Top Technical Skills
