@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! I’m passionate about statistical innovation and data-driven solutions.
 
-- 🎓 **Ph.D. Candidate in Statistics** @ Missouri S&T  
+- 🎓 **Ph.D. Candidate in Statistics @ Missouri S&T**  
   Graduate Teaching Assistant, empowering students and advancing research.
 - 💼 **Ex-Data Science Intern @ RGA**  
   Experienced in applying analytics and machine learning to real-world business challenges.
