@@ -23,7 +23,7 @@ Welcome to my GitHub! I’m passionate about statistical innovation and data-dri
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelMasavoDjegou&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelMasavoDjegou&layout=compact" alt="Languages" />
 </p>
 
 <p align="center">
