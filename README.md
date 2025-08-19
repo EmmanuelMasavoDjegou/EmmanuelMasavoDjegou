@@ -1,7 +1,12 @@
-- 👋 Hi, I'm Emmanuel DJEGOU.
-- 💼 **Ex-Data Science Intern @ RGA**
-- 🎓 **Ph.D. Candidate in Statistics | Graduate Teaching Assistant @ Missouri S&T**
-- 📧 **Email:** [emmanueldjegou5@gmail@.com](mailto:emmanueldjegou5@gmail.com)  
+# 👋 Hi, I'm Emmanuel DJEGOU
+
+Welcome to my GitHub! I’m passionate about statistical innovation and data-driven solutions.
+
+- 🎓 **Ph.D. Candidate in Statistics** @ Missouri S&T  
+  Graduate Teaching Assistant, empowering students and advancing research.
+- 💼 **Ex-Data Science Intern @ RGA**  
+  Experienced in applying analytics and machine learning to real-world business challenges.
+- 📫 **Email:** [emmanueldjegou5@gmail.com](mailto:emmanueldjegou5@gmail.com)
 ---
 
 ## 🌟 Top Technical Skills
@@ -26,7 +31,7 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-EmmanuelDjegou-blue?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/emmanueldjegou)
 [![Instagram](https://img.shields.io/badge/Instagram-EmmanuelDjegou-purple?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/emmanuel.djegou.official)
 
-
+- 💬 **Let’s connect!** Open to collaboration, research, and conversation about data science and statistics.
 
 <!---
 EmmanuelMasavoDjegou/EmmanuelMasavoDjegou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
