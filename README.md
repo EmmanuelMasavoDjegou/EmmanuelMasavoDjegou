@@ -18,11 +18,17 @@ Welcome to my GitHub! I’m passionate about statistical innovation and data-dri
 
 ## 📊 GitHub Stats & Analytics
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelMasavoDjegou&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EmmanuelMasavoDjegou&show_icons=true&hide_title=true" alt="EmmanuelMasavoDjegou's GitHub Stats" />
+</p>
 
-![EmmanuelMasavoDjegou's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmmanuelMasavoDjegou&show_icons=true&hide_title=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelMasavoDjegou&layout=compact" alt="Top Languages" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=EmmanuelMasavoDjegou)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=EmmanuelMasavoDjegou" alt="GitHub Streak" />
+</p>
 
 ---
 
