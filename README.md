@@ -48,7 +48,7 @@ Welcome to my GitHub! I’m passionate about statistical innovation and data-dri
 
 ---
 
-> “Turning data into actionable insights and impactful solutions.”
+> *“Turning data into actionable insights and impactful solutions.”*
 
 <!---
 EmmanuelMasavoDjegou/EmmanuelMasavoDjegou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
