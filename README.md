@@ -5,8 +5,6 @@ Welcome to my GitHub! I’m passionate about statistical innovation and data-dri
 ## 👨‍💻 About Me
 - 💼 **Ex-Data Science Intern @ RGA**  
 - 🎓 **Ph.D. Candidate in Statistics @ Missouri S&T**
-  
-[![Email](https://img.shields.io/badge/email-emmanueldjegou5@gmail.com-blue?logo=gmail&logoColor=white&style=for-the-badge)](mailto:emmanueldjegou5@gmail.com)
 ---
 
 ## 🌟 Top Technical Skills
@@ -32,6 +30,9 @@ Welcome to my GitHub! I’m passionate about statistical innovation and data-dri
 [![Instagram](https://img.shields.io/badge/Instagram-EmmanuelDjegou-purple?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/emmanuel.djegou.official)
 
 💬 **Let’s connect!** Open to collaboration, research, and conversation about data science and statistics.
+
+[![Email](https://img.shields.io/badge/email-emmanueldjegou5@gmail.com-blue?logo=gmail&logoColor=white&style=for-the-badge)](mailto:emmanueldjegou5@gmail.com)
+
 
 <!---
 EmmanuelMasavoDjegou/EmmanuelMasavoDjegou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
