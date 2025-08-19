@@ -24,14 +24,17 @@ Welcome to my GitHub! I’m passionate about statistical innovation and data-dri
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=EmmanuelMasavoDjegou)
 
+💬 **Let’s connect!** Open to collaboration, research, and conversation about data science and statistics.
+<p align="center">
+  <a href="mailto:emmanueldjegou5@gmail.com">
+    <img src="https://img.shields.io/badge/email-emmanueldjegou5@gmail.com-blue?logo=gmail&logoColor=white&style=for-the-badge" alt="Email Badge"/>
+  </a>
+</p>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-EmmanuelDjegou-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-djegou-5652b2254/)
 [![YouTube](https://img.shields.io/badge/YouTube-EmmanuelDjegou-red?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@emmanueldjegou44?si=Ov9jhXUDVwSb97p0)
 [![Kaggle](https://img.shields.io/badge/Kaggle-EmmanuelDjegou-blue?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/emmanueldjegou)
 [![Instagram](https://img.shields.io/badge/Instagram-EmmanuelDjegou-purple?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/emmanuel.djegou.official)
-
-💬 **Let’s connect!** Open to collaboration, research, and conversation about data science and statistics.
-
-[![Email](https://img.shields.io/badge/email-emmanueldjegou5@gmail.com-blue?logo=gmail&logoColor=white&style=for-the-badge)](mailto:emmanueldjegou5@gmail.com)
 
 
 <!---
