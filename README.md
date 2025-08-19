@@ -2,6 +2,7 @@
 
 Welcome to my GitHub! I’m passionate about statistical innovation and data-driven solutions.
 
+## 👨‍💻 About Me:
 - 💼 **Ex-Data Science Intern @ RGA**  
 - 🎓 **Ph.D. Candidate in Statistics @ Missouri S&T**  
 - 📫 **Email:** [emmanueldjegou5@gmail.com](mailto:emmanueldjegou5@gmail.com)
