@@ -15,7 +15,7 @@ Welcome to my GitHub! I’m passionate about statistical innovation and data-dri
 - **Bilingual:** `English`, `French` 
 
 ---
-
+<!---
 ## 📊 GitHub Stats & Analytics
 
 <p align="center">
@@ -31,6 +31,8 @@ Welcome to my GitHub! I’m passionate about statistical innovation and data-dri
 </p>
 
 ---
+
+--->
 
 ## 💬 Let’s Connect!
 
