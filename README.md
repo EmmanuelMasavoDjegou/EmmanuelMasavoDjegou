@@ -45,6 +45,9 @@ Welcome to my GitHub! I’m passionate about statistical innovation and data-dri
   <a href="https://youtube.com/@emmanueldjegou44?si=Ov9jhXUDVwSb97p0">
     <img src="https://img.shields.io/badge/YouTube-EmmanuelDjegou-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
   </a>
+  <a href="https://www.youtube.com/channel/UCqO0bDmzHVe7DjezToerYmw">
+    <img src="https://img.shields.io/badge/YouTube-EmmanuelDjegou-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
+  </a>
   <a href="https://www.kaggle.com/emmanueldjegou">
     <img src="https://img.shields.io/badge/Kaggle-EmmanuelDjegou-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
   </a>
