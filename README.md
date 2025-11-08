@@ -6,7 +6,7 @@ Welcome to my GitHub! I’m passionate about statistical innovation and data-dri
 
 ## 🌟 Top Technical Skills
 - **Ph.D.-Level Expertise:** Recurrent Neural Networks, Survival Analysis, Joint Modeling, Mixed Effects Models
-- **Programming & Data Tools:** Python, R, MATLAB, SQL, Git/GitHub, Snowflake  
+- **Programming & Data Tools:** Python, R, MATLAB, SQL, Git/GitHub, Domino Data Lab, Snowflake  
 - **Bilingual:** `English`, `French` 
 
 ---
