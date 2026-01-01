@@ -16,9 +16,6 @@ Welcome to my GitHub! I’m passionate about statistical innovation and data-dri
 ## 💬 Let’s Connect!
 
 <p align="center">
-  <a href="mailto:emmanueldjegou5@gmail.com">
-    <img src="https://img.shields.io/badge/email-emmanueldjegou5@gmail.com-blue?logo=gmail&logoColor=white&style=for-the-badge" alt="Email Badge"/>
-  </a>
   <a href="https://www.linkedin.com/in/emmanuel-djegou-5652b2254/">
     <img src="https://img.shields.io/badge/LinkedIn-EmmanuelDjegou-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -33,6 +30,9 @@ Welcome to my GitHub! I’m passionate about statistical innovation and data-dri
   </a>
   <a href="https://www.instagram.com/emmanuel.djegou.official">
     <img src="https://img.shields.io/badge/Instagram-EmmanuelDjegou-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="mailto:emmanueldjegou5@gmail.com">
+    <img src="https://img.shields.io/badge/email-emmanueldjegou5@gmail.com-blue?logo=gmail&logoColor=white&style=for-the-badge" alt="Email Badge"/>
   </a>
 </p>
 
