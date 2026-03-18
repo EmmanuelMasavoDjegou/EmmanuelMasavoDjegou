@@ -11,6 +11,7 @@ I am a Ph.D. candidate at Missouri University of Science & Technology (May 2026)
 What sets me apart? I have a knack for solving complex problems. 👨‍💻
 
 When I’m not working, I love reading 📚, staying active 🏋️, and playing tennis 🎾, basically anything that keeps me moving, thinking, or pretending I’m not terrible at sports 😅.
+
 ---
 
 ## 💼 Work Experience
