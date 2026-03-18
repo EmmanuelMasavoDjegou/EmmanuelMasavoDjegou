@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Emmanuel DJEGOU
-# Emmanuel Masavo DJEGOU
-
-Ph.D. Candidate in Statistics | Deep Learning & Survival Analysis | Data Science & AI Researcher
+Ph.D. Candidate in Statistics | Deep Learning & Survival Analysis | 
+Aspiring AI Researcher ✨
 
 ---
 
