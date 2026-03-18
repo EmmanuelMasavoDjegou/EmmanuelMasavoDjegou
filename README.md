@@ -1,7 +1,4 @@
 # 👋 Hi, I'm Emmanuel DJEGOU
-- Ph.D. Candidate in Statistics | Deep Learning & Survival Analysis | 
-- Aspiring Research Scientist ✨
-
 ---
 
 ## 🔹 About Me
