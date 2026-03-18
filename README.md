@@ -1,16 +1,83 @@
 # 👋 Hi, I'm Emmanuel DJEGOU
+# Emmanuel Masavo DJEGOU
 
-Welcome to my GitHub! I’m passionate about statistical innovation and data-driven solutions.
+Ph.D. Candidate in Statistics | Deep Learning & Survival Analysis | Data Science & AI Researcher
 
 ---
 
-## 🌟 Top Technical Skills
-- **Ph.D.-Level Expertise:** Deep Learning, Survival Analysis, Joint Modeling, Mixed Effects Models, Meta-Analysis
-- **Programming & Data Tools:** Python, R, MATLAB, SQL, Git/GitHub, Domino Data Lab, Snowflake  
-- **Bilingual:** `English`, `French` 
+## 🔹 About Me
 
-<!---
---->
+I am a Ph.D. candidate at Missouri University of Science & Technology (Missouri S&T), specializing in **Accelerated Life Models, Survival Analysis, and Deep Learning**. I develop statistical and AI models to predict dynamic outcomes from complex longitudinal, sequential and time-to-event data, with applications in healthcare, insurance, engineering and risk analytics.  
+
+I enjoy translating **advanced analytics into actionable insights**, mentoring aspiring data scientists, and presenting research at conferences.  
+
+---
+
+## 💼 Work Experience
+
+### Global Data Science Intern (Research & Development)  
+**Reinsurance Group of America** — Jun 2025 – Aug 2025  
+- Conducted an extensive literature review and collaborated with a **global team (U.S., U.K., South Africa)** to identify **state-of-the-art methods** for dynamic mortality prediction.  
+- Built and deployed **two joint survival models** using **Cox and linear mixed-effects models** in **SQL (Snowflake)** and **R (Domino)**, transforming **static risk assessment into dynamic prediction**.  
+- Validated **Bayesian MCMC models** using trace, density, and cumulative mean diagnostics to ensure **convergence, stable parameter estimation, and reliable predictions**.  
+- Processed **16M+ records across 400+ fields**, streamlined data pipelines, and reduced computation time from **exponential to linear**, enabling **high-performance deployment**.  
+- Maintained **reproducibility and version control** with GitHub Enterprise and authored **deployment documentation**.  
+- Presented results to **40+ stakeholders**, translating **Ph.D.-level analytics into actionable insights** across multiple business units, including underwriting, pricing, and valuation.  
+
+### Graduate Research Assistant (Statistics & Psychological Science)  
+**Missouri S&T** — Jun 2024 – Aug 2024  
+- Assessed the **validity of Student Evaluations of Teaching (SET)** using **mixed-effects models** on **500+ course sections**.  
+- Calculated the **intraclass correlation coefficient (ICC)** to quantify **instructor-level effects** and developed a **performance-based metric**.  
+- Demonstrated **minimal instructor impact**, showing **SET variability reflects perception bias** rather than true performance.  
+- Presented findings to **leadership and at a conference**, influencing **promotion and policy decisions**.  
+
+### Graduate Teaching Assistant (Calculus & Applied Statistics)  
+**Missouri S&T** — Aug 2021 – Present  
+- Instructed **Calculus for 2 years** (average evaluation 3.5+/4.0), then promoted to **teach Statistics to 500+ engineering students**.  
+- Covered **sampling techniques, hypothesis testing, ANOVA, correlation, and linear regression** for statistical analysis.  
+- Supervised **10+ capstone projects** from design to data analysis and reporting, achieving **100% on-time completion**.  
+- Raised teaching score from **1.53 to 3.82/4.0** using **student-centered pedagogy**, with **100% pass rates**.  
+
+---
+
+## 🎓 Education
+
+**Ph.D. in Statistics**, Missouri University of Science & Technology (Missouri S&T)  
+**Expected:** May 2026  
+**Thesis:** *Essay on Accelerated Life Models for Recurrent Event Data*  
+**Expertise:** Deep Learning · Survival Analysis · Joint Modeling · Mixed-Effects Models & Meta-Analysis  
+**Professional Membership:** International Biometric Society  
+
+**Selected Coursework:**  
+- Regression Analysis · Linear Models · Multivariate Analysis · Categorical Data Analysis · Nonparametric Methods  
+- Stochastic Processes · Time Series Analysis · Computational Bayesian Methods  
+- Applied Matrix Theory · Financial Mathematics  
+
+---
+
+## 🏆 Awards, Scholarships & Grants
+
+- **CodeSignal Feature (Video & Blog)** — Jul 2025  
+- **Paul W. Eloe Research Award (Honorable Mention)** — Apr 2025  
+- **Graduate Education & College of Arts, Sciences, and Education Travel Grant** — Mar 2025  
+- **AMS Travel Grant (Invited Speaker)** — Mar 2025  
+- **NSF Travel Grant (Poster Presentation)** — Nov 2024  
+- **PGSM Master’s Scholarship (Sorbonne University, France)** — Feb 2021  
+
+---
+
+## 💻 Technical Expertise
+
+**Programming:** Python · R · SQL · MATLAB · JMP  
+
+**Data Visualization:** Matplotlib · Seaborn · Plotly · Cufflinks · ggplot2 · Tableau  
+
+**Big Data Platforms & Tools:** Snowflake · Git/GitHub · Domino Data Lab · Databricks · Linux  
+
+**ML / AI Techniques:** Linear & Logistic Regression · Decision Trees · Random Forest · SVM · KNN · LSTMs · GRUs · RAG · LLMs  
+
+**ML / AI Packages & Tools:** TensorFlow · PyTorch · Keras · Scikit-Learn · LangChain · Hugging Face · PyMC · jmBIG · lifelines  
+
 ---
 
 ## 💬 Let’s Connect!
