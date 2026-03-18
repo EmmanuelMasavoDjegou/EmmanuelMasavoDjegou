@@ -1,15 +1,16 @@
 # 👋 Hi, I'm Emmanuel DJEGOU
-Ph.D. Candidate in Statistics | Deep Learning & Survival Analysis | 
-Aspiring AI Researcher ✨
+- Ph.D. Candidate in Statistics | Deep Learning & Survival Analysis | 
+- Aspiring Research Scientist ✨
 
 ---
 
 ## 🔹 About Me
 
-I am a Ph.D. candidate at Missouri University of Science & Technology (Missouri S&T), specializing in **Accelerated Life Models, Survival Analysis, and Deep Learning**. I develop statistical and AI models to predict dynamic outcomes from complex longitudinal, sequential and time-to-event data, with applications in healthcare, insurance, engineering and risk analytics.  
+I am a Ph.D. candidate at Missouri University of Science & Technology (May 2026), specializing in Accelerated Life Models, Survival Analysis, and Deep Learning. I develop statistical and AI models, with a focus on recurrent neural networks (RNNs), including LSTMs and GRUs, to predict dynamic outcomes from complex longitudinal, sequential, time-to-event, and recurrent event data, with applications in healthcare, insurance, engineering, and risk analytics.
 
-I enjoy translating **advanced analytics into actionable insights**, mentoring aspiring data scientists, and presenting research at conferences.  
+What sets me apart? I have a knack for solving complex problems. 👨‍💻
 
+When I’m not working, I love reading 📚, staying active 🏋️, and playing tennis 🎾, basically anything that keeps me moving, thinking, or pretending I’m not terrible at sports 😅.
 ---
 
 ## 💼 Work Experience
