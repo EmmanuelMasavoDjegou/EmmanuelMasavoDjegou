@@ -3,7 +3,7 @@
 
 ## 🔹 About Me
 
-I am a Ph.D. candidate at Missouri University of Science & Technology (May 2026), specializing in Accelerated Life Models, Survival Analysis, and Deep Learning. I develop statistical and AI models, with a focus on recurrent neural networks (RNNs), including LSTMs and GRUs, to predict dynamic outcomes from complex longitudinal, sequential, time-to-event, and recurrent event data, with applications in healthcare, insurance, engineering, and risk analytics.
+I am a Ph.D. candidate at Missouri University of Science & Technology (May 2026), specializing in Accelerated Life Models, Survival Analysis, and Deep Learning. I develop statistical and AI models, with a focus on recurrent neural networks (RNNs), including LSTMs and GRUs, to predict dynamic outcomes from complex longitudinal, sequential, time-to-event, and recurrent event data, with applications in biomedical research, insurance, engineering, and risk analytics.
 
 What sets me apart? If the bar didn’t rise, I wasn’t there. 🫡
 
