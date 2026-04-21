@@ -75,7 +75,7 @@ When I’m not working, I love reading 📚, staying active 🏋️, and playing
 
 **ML / AI Techniques:** Linear & Logistic Regression · Decision Trees · Random Forest · SVM · KNN · LSTMs · GRUs · RAG · LLMs  
 
-**ML / AI Packages & Tools:** TensorFlow · PyTorch · Keras · Scikit-Learn · LangChain · Hugging Face · PyMC · jmBIG · lifelines  
+**ML / AI Packages & Tools:** TensorFlow · PyTorch · Keras · Scikit-Learn · PyMC · jmBIG · lifelines  
 
 ---
 
