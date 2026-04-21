@@ -73,7 +73,7 @@ When I’m not working, I love reading 📚, staying active 🏋️, and playing
 
 **Big Data Platforms & Tools:** Snowflake · Git/GitHub · Domino Data Lab · Databricks · Linux  
 
-**ML / AI Techniques:** Linear & Logistic Regression · Decision Trees · Random Forest · SVM · KNN · LSTMs · GRUs · RAG · LLMs  
+**ML / AI Techniques:** Linear & Logistic Regression · Decision Trees · Random Forest · SVM · KNN · LSTMs · GRUs 
 
 **ML / AI Packages & Tools:** TensorFlow · PyTorch · Keras · Scikit-Learn · PyMC · jmBIG · lifelines  
 
