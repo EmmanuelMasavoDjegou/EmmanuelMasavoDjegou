@@ -42,7 +42,7 @@ When I’m not working, I love reading 📚, staying active 🏋️, and playing
 
 **Ph.D. in Statistics**, Missouri University of Science & Technology (Missouri S&T)  
 **Expected:** May 2026  
-**Thesis:** *Essay on Accelerated Life Models for Recurrent Event Data*  
+**Thesis:** *Essays on Accelerated Life Models for Recurrent Event Data*  
 **Expertise:** Deep Learning · Survival Analysis · Joint Modeling · Mixed-Effects Models & Meta-Analysis  
 **Professional Membership:** International Biometric Society  
 
