@@ -3,7 +3,9 @@
 
 ## 🔹 About Me
 
-I hold a Ph.D. from Missouri University of Science & Technology, specializing in Accelerated Life Models, Survival Analysis, and Deep Learning. I develop statistical and AI models, with a focus on recurrent neural networks (RNNs), including LSTMs and GRUs, to predict dynamic outcomes from complex longitudinal, sequential, time-to-event, and recurrent event data, with applications in biomedical research, insurance, engineering, and risk analytics.
+I earned my Ph.D. in Statistics from Missouri University of Science and Technology, where I specialized in survival analysis and deep learning for sequential data. 
+
+My work sits at the intersection of statistics, survival analysis and artificial intelligence. I focus on solving real-world problems in healthcare, insurance, and reliability engineering by modeling how systems evolve, fail, and recover over time. I develop statistical, probabilistic, and AI-driven methods to improve the reliability, safety, robustness, and knowledge integrity of intelligent systems operating under uncertainty.
 
 What sets me apart? If the bar didn’t rise, I wasn’t there. 🫡
 
