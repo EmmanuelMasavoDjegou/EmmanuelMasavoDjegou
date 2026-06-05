@@ -5,16 +5,16 @@
 
 My Strongest Achievements:
 
-• Ph.D. in Statistics — the highest academic qualification in my field, completed in less than 5 years
-• Dissertation on deep learning + survival analysis — directly maps to Reliability, AI Safety & Risk Modeling
-• Joint modeling and Bayesian methods expertise — applied in both research and industry settings
-• Real-world industry experience — built and deployed two joint survival models on 16M+ records at RGA
-• Deep learning + statistics combination — a rare and highly sought after skill set
-• Published researcher and invited conference speaker — ENAR, AMS, NSF
-• 10+ applied data science projects conducted on Kaggle
-• IBM Generative AI Engineering Certificate — committed to staying at the forefront of AI
-• Experienced teacher and mentor — taught calculus and applied statistics to 500+ engineering students
-• Multiple award recipient — Louis Grimm Fellowship, NSF Grant, AMS Travel Grant
+- Ph.D. in Statistics — the highest academic qualification in my field, completed in less than 5 years
+- Dissertation on deep learning + survival analysis — directly maps to Reliability, AI Safety & Risk Modeling
+- Joint modeling and Bayesian methods expertise — applied in both research and industry settings
+- Real-world industry experience — built and deployed two joint survival models on 16M+ records at RGA
+- Deep learning + statistics combination — a rare and highly sought after skill set
+- Published researcher and invited conference speaker — ENAR, AMS, NSF
+- 10+ applied data science projects conducted on Kaggle
+- IBM Generative AI Engineering Certificate — committed to staying at the forefront of AI
+- Experienced teacher and mentor — taught calculus and applied statistics to 500+ engineering students
+- Multiple award recipient — Louis Grimm Fellowship, NSF Grant, AMS Travel Grant
 
 Outside of work, I stay disciplined through continuous learning, reading, training, and playing tennis.
 
