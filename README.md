@@ -52,7 +52,7 @@ Always happy to chat — reach me at emmanueldjegou5@gmail.com
 ## 🎓 Education
 
 **Ph.D. in Statistics**, Missouri University of Science & Technology (Missouri S&T)  
-**Expected:** May 2026  
+**Graduation:** May 2026  
 **Thesis:** *Essays on Accelerated Life Models for Recurrent Event Data*  
 **Expertise:** Deep Learning · Survival Analysis · Joint Modeling · Mixed-Effects Models & Meta-Analysis  
 **Professional Membership:** International Biometric Society  
