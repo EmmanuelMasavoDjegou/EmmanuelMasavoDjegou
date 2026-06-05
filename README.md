@@ -3,13 +3,22 @@
 
 ## 🔹 About Me
 
-I earned my Ph.D. in Statistics from Missouri University of Science and Technology, where I specialized in survival analysis and deep learning for sequential data. 
+My Strongest Achievements:
 
-My work sits at the intersection of statistics, survival analysis and artificial intelligence. I focus on solving real-world problems in healthcare, insurance, and reliability engineering by modeling how systems evolve, fail, and recover over time. I develop statistical, probabilistic, and AI-driven methods to improve the reliability, safety, robustness, and knowledge integrity of intelligent systems operating under uncertainty.
+• Ph.D. in Statistics — the highest academic qualification in my field, completed in less than 5 years
+• Dissertation on deep learning + survival analysis — directly maps to Reliability, AI Safety & Risk Modeling
+• Joint modeling and Bayesian methods expertise — applied in both research and industry settings
+• Real-world industry experience — built and deployed two joint survival models on 16M+ records at RGA
+• Deep learning + statistics combination — a rare and highly sought after skill set
+• Published researcher and invited conference speaker — ENAR, AMS, NSF
+• 10+ applied data science projects conducted on Kaggle
+• IBM Generative AI Engineering Certificate — committed to staying at the forefront of AI
+• Experienced teacher and mentor — taught calculus and applied statistics to 500+ engineering students
+• Multiple award recipient — Louis Grimm Fellowship, NSF Grant, AMS Travel Grant
 
-What sets me apart? If the bar didn’t rise, I wasn’t there. 🫡
+Outside of work, I stay disciplined through continuous learning, reading, training, and playing tennis.
 
-When I’m not working, I love reading 📚, staying active 🏋️, and playing tennis 🎾, basically anything that keeps me moving, thinking, or pretending I’m not terrible at sports 😅.
+Always happy to chat — reach me at emmanueldjegou5@gmail.com
 
 ---
 
