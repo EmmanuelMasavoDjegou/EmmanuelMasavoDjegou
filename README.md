@@ -1,24 +1,37 @@
-# 👋 Hi, I'm Emmanuel DJEGOU
+# 👋 Hi, I'm Emmanuel
 ---
 
 ## 🔹 About Me
 
-My Strongest Achievements:
+### 🚀 Strongest Achievements
 
-- Ph.D. in Statistics — the highest academic qualification in my field, completed in less than 5 years
-- Dissertation on deep learning + survival analysis — directly maps to Reliability, AI Safety & Risk Modeling
-- Joint modeling and Bayesian methods expertise — applied in both research and industry settings
-- Real-world industry experience — built and deployed two joint survival models on 16M+ records at RGA
-- Deep learning + statistics combination — a rare and highly sought after skill set
-- Published researcher and invited conference speaker — ENAR, AMS, NSF
-- 10+ applied data science projects conducted on Kaggle
-- IBM Generative AI Engineering Certificate — committed to staying at the forefront of AI
-- Experienced teacher and mentor — taught calculus and applied statistics to 500+ engineering students
-- Multiple award recipient — Louis Grimm Fellowship, NSF Grant, AMS Travel Grant
+- 🎓 Successfully completed a **Ph.D. in Statistics** in 5 years
+- 📊 Built and deployed **two joint survival models** on **16M+ records** at :contentReference[oaicite:0]{index=0}
+- 🔬 Research focus at the intersection of **Reliability Engineering, AI Safety, and Risk Modeling**
+- 🤖 Expertise in **Deep Learning, Survival Analysis, Joint Modeling, Mixed-Effects Models, and Meta-Analysis**
+- 📝 Published researcher and invited conference speaker
+- 🏆 Recipient of multiple awards, scholarships, and research grants
+- 👨‍🏫 Taught **Calculus** and **Applied Statistics** to more than **500 engineering students**
+- 📈 Completed **10+ applied Data Science and Machine Learning projects** on Kaggle
+- 🎖️ Holder of the **IBM Generative AI Engineering Certificate**
+
+### 💡 Areas of Interest
+
+- Artificial Intelligence & Machine Learning
+- Survival Analysis & Risk Modeling
+- Reliability Engineering
+- AI Safety
+- Healthcare Analytics
+- Financial Risk Analytics
+- Causal Inference & Predictive Modeling
+
+### 🎾 Beyond Work
 
 Outside of work, I stay disciplined through continuous learning, reading, training, and playing tennis.
 
-Always happy to chat — reach me at emmanueldjegou5@gmail.com
+### 📫 Contact
+
+📧 **Email:** emmanueldjegou5@gmail.com
 
 ---
 
