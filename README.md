@@ -7,13 +7,12 @@
 
 - 🎓 Successfully completed a **Ph.D. in Statistics** in 5 years
 - 📊 Built and deployed **two joint survival models** on **16M+ records** at :contentReference[oaicite:0]{index=0}
-- 🔬 Research focus at the intersection of **Reliability Engineering, AI Safety, and Risk Modeling**
-- 🤖 Expertise in **Deep Learning, Survival Analysis, Joint Modeling, Mixed-Effects Models, and Meta-Analysis**
+- 🔬 Research focus at the intersection of **reliability, AI safety, and risk modeling**
+- 🤖 Expertise in **deep learning, survival analysis, joint modeling, mixed-effects models, and meta-analysis**
 - 📝 Published researcher and invited conference speaker
 - 🏆 Recipient of multiple awards, scholarships, and research grants
-- 👨‍🏫 Taught **Calculus** and **Applied Statistics** to more than **500 engineering students**
-- 📈 Completed **10+ applied Data Science and Machine Learning projects** on Kaggle
-- 🎖️ Holder of the **IBM Generative AI Engineering Certificate**
+- 👨‍🏫 Taught **calculus** and **applied statistics** to more than **500 engineering students**
+- 📈 Completed **10+ applied data science and machine learning projects** on Kaggle
 
 ### 💡 Areas of Interest
 
