@@ -17,12 +17,10 @@
 ### 💡 Areas of Interest
 
 - Artificial Intelligence & Machine Learning
+- Causal Inference & Predictive Modeling
 - Survival Analysis & Risk Modeling
 - Reliability Engineering
 - AI Safety
-- Healthcare Analytics
-- Financial Risk Analytics
-- Causal Inference & Predictive Modeling
 
 ### 🎾 Beyond Work
 
