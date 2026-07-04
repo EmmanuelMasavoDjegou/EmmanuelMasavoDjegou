@@ -63,9 +63,8 @@ Outside of work, I stay disciplined through continuous learning, reading, traini
 
 **Ph.D. in Statistics**, Missouri University of Science & Technology (Missouri S&T)  
 **Graduation:** May 2026  
-**Thesis:** *Essays on Accelerated Life Models for Recurrent Event Data*  
+**Thesis:** *Essays on Accelerated Failure Time Models for Recurrent Event Data*  
 **Expertise:** Deep Learning · Survival Analysis · Joint Modeling · Mixed-Effects Models & Meta-Analysis  
-**Professional Membership:** International Biometric Society  
 
 **Selected Coursework:**  
 - Regression Analysis · Linear Models · Multivariate Analysis · Categorical Data Analysis · Nonparametric Methods  
