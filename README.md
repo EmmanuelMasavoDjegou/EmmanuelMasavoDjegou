@@ -16,9 +16,9 @@
 
 ### 💡 Areas of Interest
 
-- Artificial Intelligence & Machine Learning
-- Causal Inference & Predictive Modeling
+- Artificial Intelligence & Deep Learning
 - Survival Analysis & Risk Modeling
+- Predictive Modeling
 - Reliability Engineering
 - AI Safety
 
