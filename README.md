@@ -16,7 +16,7 @@
 
 ### 💡 Areas of Interest
 
-- Artificial Intelligence & Deep Learning
+- AI & Deep Learning
 - Survival Analysis & Risk Modeling
 - Predictive Modeling
 - Reliability Engineering
