@@ -120,7 +120,7 @@ Outside of work, I stay disciplined through continuous learning, reading, traini
 ## 💬 Visit My Websites
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/emmanuel-djegou-5652b2254/">
+  <a href="https://www.linkedin.com/in/emmanuel-djegou-phd-5652b2254/">
     <img src="https://img.shields.io/badge/LinkedIn-EmmanuelDjegou-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://youtube.com/@emmanueldjegou44?si=Ov9jhXUDVwSb97p0">
