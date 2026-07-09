@@ -76,7 +76,7 @@ Outside of work, I stay disciplined through continuous learning, reading, traini
 
 ## 📚 Research Papers
 
-Research Framework: [Topics](https://github.com/EmmanuelMasavoDjegou/Emmanuel-Djegou-Research-Framework)
+Research Framework: [Advanced Statistical & Machine Learning Methods for Time-to-Event Data](https://github.com/EmmanuelMasavoDjegou/Emmanuel-Djegou-Research-Framework)
 
 | Year | Title | Status | Link |
 |------|------------------|-----------------|------|
