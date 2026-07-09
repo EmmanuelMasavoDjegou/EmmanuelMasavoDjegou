@@ -32,6 +32,20 @@ Outside of work, I stay disciplined through continuous learning, reading, traini
 
 ---
 
+## 🎓 Education
+
+**Ph.D. in Statistics**, Missouri University of Science & Technology (Missouri S&T)  
+**Graduation:** May 2026  
+**Thesis:** *Essays on Accelerated Failure Time Models for Recurrent Event Data*  
+**Expertise:** Deep Learning · Survival Analysis · Joint Modeling · Mixed-Effects Models · Meta-Analysis  
+
+**Selected Coursework:**  
+- Regression Analysis · Linear Models · Multivariate Analysis · Categorical Data Analysis · Nonparametric Methods  
+- Stochastic Processes · Time Series Analysis · Computational Bayesian Methods  
+- Applied Matrix Theory · Financial Mathematics  
+
+---
+
 ## 💼 Work Experience
 
 ### Global Data Science Intern (Research & Development)  
@@ -58,21 +72,6 @@ Outside of work, I stay disciplined through continuous learning, reading, traini
 - Raised teaching score from **1.53 to 3.82/4.0** using **student-centered pedagogy**, with **100% pass rates**.  
 
 ---
-
-## 🎓 Education
-
-**Ph.D. in Statistics**, Missouri University of Science & Technology (Missouri S&T)  
-**Graduation:** May 2026  
-**Thesis:** *Essays on Accelerated Failure Time Models for Recurrent Event Data*  
-**Expertise:** Deep Learning · Survival Analysis · Joint Modeling · Mixed-Effects Models · Meta-Analysis  
-
-**Selected Coursework:**  
-- Regression Analysis · Linear Models · Multivariate Analysis · Categorical Data Analysis · Nonparametric Methods  
-- Stochastic Processes · Time Series Analysis · Computational Bayesian Methods  
-- Applied Matrix Theory · Financial Mathematics  
-
----
-
 
 ## 📚 Research Papers
 
