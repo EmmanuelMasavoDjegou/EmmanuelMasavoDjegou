@@ -63,8 +63,8 @@ Outside of work, I stay disciplined through continuous learning, reading, traini
 
 | Year | Title | Status | Link |
 |------|------------------|--------|------|
-| 2026 | **Efficient Estimation in Semiparametric Accelerated Gap-Time Models for Recurrent Event Data** | Under Review | [Preprint](https://drive.google.com/file/d/1fIGTnJ4HvOTFB5WHI4TJ5r10xx3TrI1L/view?usp=share_link) |
-| 2026 | **RNN-AGT: A Recurrent Neural Network Framework for Accelerated Gap-Time Models** | Under Review | [Preprint](https://drive.google.com/file/d/1FLZqA-7X-XPmMXur7W22TNY671fmXvNT/view?usp=share_link) |
+| 2026 | **Efficient Estimation in Semiparametric Accelerated Gap-Time Models for Recurrent Event Data** | Submitted | [Preprint](https://drive.google.com/file/d/1fIGTnJ4HvOTFB5WHI4TJ5r10xx3TrI1L/view?usp=share_link) |
+| 2026 | **RNN-AGT: A Recurrent Neural Network Framework for Accelerated Gap-Time Models** | Submitted | [Preprint](https://drive.google.com/file/d/1FLZqA-7X-XPmMXur7W22TNY671fmXvNT/view?usp=share_link) |
 | 2026 | **Hierarchical Variable Selection for Nonconvex Penalized Cox Models in IPD Meta-Analysis** | Draft | [Preprint](https://drive.google.com/file/d/1GHtXU83wugYjIEf4MRuVw6f5nMgBk8rU/view?usp=sharing) |
 
 
