@@ -35,7 +35,7 @@ Outside of work, I stay disciplined through continuous learning, reading, traini
 
 **Ph.D. in Statistics**, Missouri University of Science & Technology (Missouri S&T)  
 **Graduation:** May 2026  
-**Thesis:** *Essays on Accelerated Failure Time Models for Recurrent Event Data*  
+**Thesis:** [Essays on Accelerated Failure Time Models for Recurrent Event Data](https://doi.org/10.13140/RG.2.2.19972.69760)  
 **Selected Coursework:**  
 - Regression Analysis · Linear Models · Multivariate Analysis · Categorical Data Analysis · Nonparametric Methods  
 - Stochastic Processes · Time Series Analysis · Computational Bayesian Methods  
