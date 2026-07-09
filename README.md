@@ -76,6 +76,8 @@ Outside of work, I stay disciplined through continuous learning, reading, traini
 
 ## 📚 Research Papers
 
+Research Framework: [Topics](https://github.com/EmmanuelMasavoDjegou/Emmanuel-Djegou-Research-Framework)
+
 | Year | Title | Status | Link |
 |------|------------------|-----------------|------|
 | 2026 | **Hierarchical Variable Selection for Nonconvex Penalized Cox Models in IPD Meta-Analysis** | Working | [Preprint](https://drive.google.com/file/d/1GHtXU83wugYjIEf4MRuVw6f5nMgBk8rU/view?usp=sharing) |
