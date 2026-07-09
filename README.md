@@ -86,7 +86,7 @@ Outside of work, I stay disciplined through continuous learning, reading, traini
 
 ## 🏆 Awards, Scholarships & Grants
 
-- **Louis Grimm Overall Excellence Fellowship Award** - Apr 2026
+- **Louis Grimm Overall Excellence Fellowship Award** — Apr 2026
 - **CodeSignal Feature (Video & Blog)** — Jul 2025  
 - **Paul W. Eloe Research Award (Honorable Mention)** — Apr 2025  
 - **Graduate Education & College of Arts, Sciences, and Education Travel Grant** — Mar 2025  
