@@ -85,7 +85,7 @@ Outside of work, I stay disciplined through continuous learning, reading, traini
   <a href="https://github.com/EmmanuelMasavoDjegou/Research-Papers">Full Publication List</a>
 </p>
 
-**Preprints**
+🔍 **Preprints**
 
 | Year | Title | Status | Link |
 |:---:|---|:---:|:---:|
