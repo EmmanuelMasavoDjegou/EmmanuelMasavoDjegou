@@ -59,7 +59,7 @@ Outside of work, I stay disciplined through continuous learning, reading, traini
 
 ---
 
-## 📚 Selected Research Projects
+## 📚 Research Projects
 
 | Year | Research Project | Link |
 |------|------------------|------|
