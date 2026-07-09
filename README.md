@@ -87,12 +87,11 @@ Outside of work, I stay disciplined through continuous learning, reading, traini
 
 🔍 **Preprints**
 
-| Year | Title | Status | Link |
-|:---:|---|:---:|:---:|
-| 2026 | **Efficient Estimation in Semiparametric Accelerated Gap-Time Models for Recurrent Event Data** | ![Submitted](https://img.shields.io/badge/Submitted-2c5364?style=flat-square) | [Preprint](https://drive.google.com/file/d/1fIGTnJ4HvOTFB5WHI4TJ5r10xx3TrI1L/view?usp=share_link) |
-| 2026 | **RNN-AGT: A Recurrent Neural Network Framework for Accelerated Gap-Time Models** | ![Submitted](https://img.shields.io/badge/Submitted-2c5364?style=flat-square) | [Preprint](https://drive.google.com/file/d/1FLZqA-7X-XPmMXur7W22TNY671fmXvNT/view?usp=share_link) |
-| 2026 | **Hierarchical Variable Selection for Nonconvex Penalized Cox Models in IPD Meta-Analysis** | ![Working Paper](https://img.shields.io/badge/Working%20Paper-9d4edd?style=flat-square) | [Preprint](https://drive.google.com/file/d/1GHtXU83wugYjIEf4MRuVw6f5nMgBk8rU/view?usp=sharing) |
-
+| Title | Journal | Status | Year | Link |
+|:---|:---|:---:|:---:|:---:|
+| **Efficient Estimation in Semiparametric Accelerated Gap-Time Models for Recurrent Event Data** | *The Canadian Journal of Statistics* |*Under Review* | ![Submitted](https://img.shields.io/badge/Submitted-2c5364?style=flat-square) | 2026 | [Preprint](https://drive.google.com/file/d/1fIGTnJ4HvOTFB5WHI4TJ5r10xx3TrI1L/view?usp=share_link) |
+| **RNN-AGT: A Recurrent Neural Network Framework for Accelerated Gap-Time Models** | *Statistics in Medecine* | *Under Review* | ![Submitted](https://img.shields.io/badge/Submitted-2c5364?style=flat-square) | 2026 | [Preprint](https://drive.google.com/file/d/1FLZqA-7X-XPmMXur7W22TNY671fmXvNT/view?usp=share_link) |
+| **Hierarchical Variable Selection for Nonconvex Penalized Cox Models in IPD Meta-Analysis** | *Biostatistics*  | *In Preparation* | ![Working Paper](https://img.shields.io/badge/Working%20Paper-9d4edd?style=flat-square) | 2026 | [Preprint](https://drive.google.com/file/d/1GHtXU83wugYjIEf4MRuVw6f5nMgBk8rU/view?usp=sharing) |
 
 
 ## 🏆 Awards, Scholarships & Grants
