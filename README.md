@@ -117,7 +117,7 @@ Outside of work, I stay disciplined through continuous learning, reading, traini
 
 ---
 
-## 💬 Let’s Connect!
+## 💬 Visit My Websites
 
 <p align="center">
   <a href="https://www.linkedin.com/in/emmanuel-djegou-5652b2254/">
