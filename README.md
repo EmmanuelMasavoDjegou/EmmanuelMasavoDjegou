@@ -7,7 +7,6 @@
 
 - 🎓 Successfully completed a **Ph.D. in Statistics** in 5 years
 - 📊 Built and deployed **two joint survival models** on **16M+ records** at RGA
-- 🔬 Research focus at the intersection of **reliability, AI safety, and risk modeling**
 - 🤖 Expertise in **deep learning, survival analysis, joint modeling, mixed-effects models, and meta-analysis**
 - 📝 Published researcher and invited conference speaker
 - 🏆 Recipient of multiple awards, scholarships, and research grants
