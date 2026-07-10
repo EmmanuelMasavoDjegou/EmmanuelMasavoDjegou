@@ -62,7 +62,7 @@ Outside of work, I stay disciplined through continuous learning, reading, traini
 - Presented findings to **leadership and at a conference**, influencing **promotion and policy decisions**.  
 
 ### Graduate Teaching Assistant (Calculus & Applied Statistics)  
-**Missouri S&T** — Aug 2021 – Present  
+**Missouri S&T** — Aug 2021 – May 2026  
 - Instructed **Calculus for 2 years** (average evaluation 3.5+/4.0), then promoted to **teach Statistics to 500+ engineering students**.  
 - Covered **sampling techniques, hypothesis testing, ANOVA, correlation, and linear regression** for statistical analysis.  
 - Supervised **10+ capstone projects** from design to data analysis and reporting, achieving **100% on-time completion**.  
