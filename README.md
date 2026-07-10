@@ -87,6 +87,52 @@ Outside of work, I stay disciplined through continuous learning, reading, traini
 | **RNN-AGT: A Recurrent Neural Network Framework for Accelerated Gap-Time Models** | *Statistics in Medicine* | ![Submitted](https://img.shields.io/badge/Submitted-2c5364?style=flat-square) | 2026 | [Preprint](https://drive.google.com/file/d/1FLZqA-7X-XPmMXur7W22TNY671fmXvNT/view?usp=share_link) |
 | **Hierarchical Variable Selection for Nonconvex Penalized Cox Models in IPD Meta-Analysis** | *Biostatistics* | ![Working Paper](https://img.shields.io/badge/Working%20Paper-9d4edd?style=flat-square) | 2026 | [Preprint](https://drive.google.com/file/d/1GHtXU83wugYjIEf4MRuVw6f5nMgBk8rU/view?usp=sharing) |
 
+---
+
+## 📖 Educational Courses
+
+I have created comprehensive lecture materials on advanced topics in data science and statistics:
+
+### 🧠 **Foundations of Deep Learning**
+**Repository:** [Foundations-of-Deep-Learning](https://github.com/EmmanuelMasavoDjegou/Foundations-of-Deep-Learning)
+
+A collection of **lecture slides** covering the theoretical foundations and modern architectures of deep learning.
+
+- 📊 **4 Main Chapters** spanning **10 Modules**
+- 📋 **Topics Covered:**
+  - Machine Learning Foundations
+  - Neural Networks & Backpropagation
+  - Regularization & Optimization
+  - Convolutional Neural Networks (CNNs)
+  - Recurrent Neural Networks (RNNs, LSTMs, GRUs)
+  - Attention Mechanisms & Transformers
+  - Large Language Models (LLMs)
+
+- 👥 **Intended Audience:** Graduate Students, Data Scientists, ML Engineers, AI Researchers
+- 📖 **Primary Reference:** Goodfellow, Bengio & Courville (2016). *Deep Learning*. MIT Press.
+
+---
+
+### 🩺 **Risk Modeling for Medical Applications**
+**Repository:** [Risk-Modeling-for-Medical-Applications](https://github.com/EmmanuelMasavoDjegou/Risk-Modeling-for-Medical-Applications)
+
+A comprehensive collection of **lecture slides** on **survival analysis** and **modern risk modeling methods** for medical applications.
+
+- 📊 **3 Main Modules** with **R Examples**
+- 📋 **Topics Covered:**
+  - Survival Analysis Basics (Censoring, Kaplan-Meier, Nelson-Aalen)
+  - Cox Proportional Hazards Model
+  - Hazard Ratios & Model Building
+  - Parametric Regression Models (Exponential, Weibull, Log-Normal, etc.)
+  - Accelerated Failure Time (AFT) Models
+  - Model Validation & Diagnostics
+  - Risk-Adjusted Survival Curves
+
+- 👥 **Intended Audience:** Graduate Students, Biostatisticians, Medical Researchers, Epidemiologists, Clinical Researchers
+- 📖 **Primary Reference:** Collett, D. (2024). *Modelling Survival Data in Medical Research* (4th Edition). CRC Press.
+
+---
+
 ## 🏆 Awards, Scholarships & Grants
 
 - **Louis Grimm Overall Excellence Fellowship Award** — Apr 2026
@@ -95,7 +141,7 @@ Outside of work, I stay disciplined through continuous learning, reading, traini
 - **Graduate Education & College of Arts, Sciences, and Education Travel Grant** — Mar 2025  
 - **AMS Travel Grant (Invited Speaker)** — Mar 2025  
 - **NSF Travel Grant (Poster Presentation)** — Nov 2024  
-- **PGSM Master’s Scholarship (Sorbonne University, France)** — Feb 2021  
+- **PGSM Master's Scholarship (Sorbonne University, France)** — Feb 2021  
 
 ---
 
@@ -110,6 +156,17 @@ Outside of work, I stay disciplined through continuous learning, reading, traini
 **ML / AI Techniques:** GLMs · GAMs · Linear & Logistic Regression · Decision Trees · Random Forest · SVM · KNN · LSTMs · GRUs 
 
 **ML / AI Packages & Tools:** TensorFlow · PyTorch · Keras · Scikit-Learn · PyMC · jmBIG · lifelines  
+
+---
+
+## 📊 Portfolio & Projects
+
+Explore my work across multiple platforms:
+
+- 🌐 **Personal Website:** [My Portfolio](https://emmanuelmasavoDjegou.github.io/My-Website/)
+- 🧠 **Research Framework:** [Advanced Statistical & ML Methods for Time-to-Event Data](https://github.com/EmmanuelMasavoDjegou/Emmanuel-Djegou-Research-Framework)
+- 📚 **Research Papers:** [Full Publication List](https://github.com/EmmanuelMasavoDjegou/Research-Papers)
+- 📖 **Educational Content:** [Courses & Lectures](https://emmanuelmasavoDjegou.github.io/My-Website/courses.html)
 
 ---
 
