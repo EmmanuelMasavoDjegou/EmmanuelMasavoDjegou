@@ -74,7 +74,7 @@ Outside of work, I stay disciplined through continuous learning, reading, traini
 
 <p>
   🔬 <b>Framework:</b>
-  <a href="https://github.com/EmmanuelMasavoDjegou/Emmanuel-Djegou-Research-Framework">Advanced Statistical & Machine Learning Methods for Time-to-Event Data</a>
+  <a href="https://github.com/EmmanuelMasavoDjegou/Emmanuel-Djegou-Research-Framework">Statistical & Machine Learning Methods for Time-to-Event Data</a>
   <br>
   <br>
   📄 <b>Abstracts & Authors:</b>
