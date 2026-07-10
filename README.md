@@ -19,7 +19,6 @@
 - Survival Analysis & Risk Modeling
 - Predictive Modeling
 - Reliability Engineering
-- AI Safety
 
 ### 🎾 Beyond Work
 
