@@ -157,16 +157,6 @@ A comprehensive collection of **lecture slides** on **survival analysis** and **
 
 **ML / AI Packages & Tools:** TensorFlow · PyTorch · Keras · Scikit-Learn · PyMC · jmBIG · lifelines  
 
----
-
-## 📊 Portfolio & Projects
-
-Explore my work across multiple platforms:
-
-- 🌐 **Personal Website:** [My Portfolio](https://emmanuelmasavoDjegou.github.io/My-Website/)
-- 🧠 **Research Framework:** [Advanced Statistical & ML Methods for Time-to-Event Data](https://github.com/EmmanuelMasavoDjegou/Emmanuel-Djegou-Research-Framework)
-- 📚 **Research Papers:** [Full Publication List](https://github.com/EmmanuelMasavoDjegou/Research-Papers)
-- 📖 **Educational Content:** [Courses & Lectures](https://emmanuelmasavoDjegou.github.io/My-Website/courses.html)
 
 ---
 
