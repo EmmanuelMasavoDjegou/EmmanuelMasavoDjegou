@@ -91,7 +91,7 @@ Outside of work, I stay disciplined through continuous learning, reading, traini
 
 ## 📖 Educational Courses
 
-I have created comprehensive lecture materials on advanced topics in data science and statistics:
+I have created comprehensive lecture materials on advanced topics in machine learning and statistics:
 
 ### 🧠 **Foundations of Deep Learning**
 **Repository:** [Foundations-of-Deep-Learning](https://github.com/EmmanuelMasavoDjegou/Foundations-of-Deep-Learning)
