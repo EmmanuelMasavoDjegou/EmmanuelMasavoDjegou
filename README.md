@@ -17,7 +17,6 @@
 
 - AI & Deep Learning
 - Survival Analysis & Risk Modeling
-- Predictive Modeling
 
 ### 🎾 Beyond Work
 
