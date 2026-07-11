@@ -79,7 +79,7 @@ Outside of work, I stay disciplined through continuous learning, reading, traini
 </p>
 
 | # | Title | Journal | Status | Year |
-|:---:|:---|:---|:---:|:---:|:---:|
+|:---:|:---|:---|:---:|:---:|
 | 3 | **Hierarchical Variable Selection for Nonconvex Penalized Cox Models in IPD Meta-Analysis** | *Biostatistics* | ![Working Paper](https://img.shields.io/badge/Working%20Paper-9d4edd?style=flat-square) | 2026 | 
 | 2 | **RNN-AGT: A Recurrent Neural Network Framework for Accelerated Gap-Time Models** | *Statistics in Medicine* | ![Submitted](https://img.shields.io/badge/Submitted-2c5364?style=flat-square) | 2026 |
 | 1 | **Efficient Estimation in Semiparametric Accelerated Gap-Time Models for Recurrent Event Data** | *The Canadian Journal of Statistics* | ![Submitted](https://img.shields.io/badge/Submitted-2c5364?style=flat-square) | 2026 | 
