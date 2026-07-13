@@ -109,7 +109,6 @@ A collection of **lecture slides** covering the theoretical foundations and mode
 - 👥 **Intended Audience:** Graduate Students, Data Scientists, ML Engineers, AI Researchers
 - 📖 **Primary Reference:** Goodfellow, Bengio & Courville (2016). *Deep Learning*. MIT Press.
 
----
 
 ### 🩺 **Risk Modeling for Medical Applications**
 **Repository:** [Risk-Modeling-for-Medical-Applications](https://github.com/EmmanuelMasavoDjegou/Risk-Modeling-for-Medical-Applications)
