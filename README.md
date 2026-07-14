@@ -11,7 +11,7 @@
 - 📝 Published researcher and invited conference speaker
 - 🏆 Recipient of multiple awards, scholarships, and research grants
 - 👨‍🏫 Taught **calculus** and **applied statistics** to more than **500 engineering students**
-- 📈 Completed **10+ applied data csience and machine learning projects** on Kaggle
+- 📈 Completed **10+ applied data science and machine learning projects** on Kaggle
 
 ### 💡 Areas of Interest
 
