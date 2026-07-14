@@ -80,7 +80,7 @@ Outside of work, I stay disciplined through continuous learning, reading, traini
 
 | # | Title | Journal | Status | Year |
 |:---:|:---|:---|:---:|:---:|
-| 3 | **Hierarchical Variable Selection for Nonconvex Penalized Cox Models in IPD Meta-Analysis** | *Statistical Methods in Medical Research* | ![Submitted](https://img.shields.io/badge/Submitted-2c5364?style=flat-square)| 2026 | 
+| 3 | **Hierarchical Variable Selection for Nonconvex Penalized Cox Models in IPD Meta-Analysis** | *Lifetime Data Analysis* | ![Submitted](https://img.shields.io/badge/Submitted-2c5364?style=flat-square)| 2026 | 
 | 2 | **RNN-AGT: A Recurrent Neural Network Framework for Accelerated Gap-Time Models via Gehan-Type Rank Loss** | *Statistics in Medicine* | ![Submitted](https://img.shields.io/badge/Submitted-2c5364?style=flat-square) | 2026 |
 | 1 | **Efficient Estimation in Semiparametric Accelerated Gap-Time Models for Recurrent Event Data** | *The Canadian Journal of Statistics* | ![Submitted](https://img.shields.io/badge/Submitted-2c5364?style=flat-square) | 2026 | 
 
