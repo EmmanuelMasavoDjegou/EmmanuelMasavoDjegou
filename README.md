@@ -211,12 +211,6 @@ Collett, D. (2024). *Modelling Survival Data in Medical Research* (4th Edition).
 
 ---
 
-<div align="center">
-
-📧 Reach Me At [emmanueldjegou5@gmail.com](mailto:emmanueldjegou5@gmail.com)
-
-</div>
-
 <!---
 EmmanuelMasavoDjegou/EmmanuelMasavoDjegou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
