@@ -1,5 +1,4 @@
-# 👋 Hi, I'm Emmanuel
----
+👋 Hi, I'm Emmanuel
  
 ## 🔹 About Me
  
