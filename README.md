@@ -1,62 +1,57 @@
-<div align="center">
-
-# Hi, I'm Emmanuel 👋
-
-### Ph.D. in Statistics · AI & Deep Learning · Survival Analysis & Risk Modeling 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-EmmanuelDjegou-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-djegou-phd-5652b2254/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-EmmanuelDjegou-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/emmanueldjegou)
-[![YouTube EN](https://img.shields.io/badge/YouTube-English-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@emmanueldjegou44?si=Ov9jhXUDVwSb97p0)
-[![YouTube FR](https://img.shields.io/badge/YouTube-Français-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCqO0bDmzHVe7DjezToerYmw)
-[![Instagram](https://img.shields.io/badge/Instagram-EmmanuelDjegou-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emmanuel.djegou.official)
-[![Email](https://img.shields.io/badge/Email-emmanueldjegou5%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emmanueldjegou5@gmail.com)
-
-</div>
-
+# 👋 Hi, I'm Emmanuel
 ---
-
-## 🚀 At a Glance
-
-- 🎓 **Ph.D. in Statistics** completed in 5 years (Missouri S&T, May 2026)
+ 
+## 🔹 About Me
+ 
+### 🚀 Strongest Achievements
+ 
+- 🎓 Successfully completed a **Ph.D. in Statistics** in 5 years
 - 📊 Built and deployed **two joint survival models** on **16M+ records** at RGA
-- 🤖 Expertise in **deep learning, survival analysis, joint modeling, mixed-effects models & meta-analysis**
-- 📝 **4 publications** in progress/under review · Invited conference speaker
-- 🏆 Multiple **awards, scholarships & research grants**
-- 👨‍🏫 Taught **calculus & applied statistics** to **500+ engineering students**
-- 📈 **10+ applied data science & ML projects** on Kaggle
-- 🎾 Off the clock: reading, training, and tennis
+- 🤖 Expertise in **deep learning, survival analysis, joint modeling, mixed-effects models, and meta-analysis**
+- 📝 Published researcher and invited conference speaker
+- 🏆 Recipient of multiple awards, scholarships, and research grants
+- 👨‍🏫 Taught **calculus** and **applied statistics** to more than **500 engineering students**
+- 📈 Completed **10+ applied data science and machine learning projects** on Kaggle
+
+### 💡 Areas of Interest
+ 
+- AI & Deep Learning
+- Survival Analysis & Risk Modeling
+- 
+### 🎾 Beyond Work
+ 
+Outside of work, I stay disciplined through continuous learning, reading, training, and playing tennis.
+ 
+### 📫 Contact
+ 
+📧 **Email:** emmanueldjegou5@gmail.com
 
 ---
-
+ 
 ## 💼 Work Experience
+ 
+### Global Data Science Intern (Research & Development)  
+**Reinsurance Group of America** — Jun 2025 – Aug 2025  
+- Conducted an extensive literature review and collaborated with a **global team (U.S., U.K., South Africa)** to identify **state-of-the-art methods** for dynamic mortality prediction.  
+- Built and deployed **two joint survival models** using **Cox and linear mixed-effects models** in **SQL (Snowflake)** and **R (Domino)**, transforming **static risk assessment into dynamic prediction**.  
+- Validated **Bayesian MCMC models** using trace, density, and cumulative mean diagnostics to ensure **convergence, stable parameter estimation, and reliable predictions**.  
+- Processed **16M+ records across 400+ fields**, streamlined data pipelines, and reduced computation time from **exponential to linear**, enabling **high-performance deployment**.  
+- Maintained **reproducibility and version control** with GitHub Enterprise and authored **deployment documentation**.  
+- Presented results to **40+ stakeholders**, translating **Ph.D.-level analytics into actionable insights** across multiple business units, including underwriting, pricing, and valuation.  
 
-### 🔹 Global Data Science Intern (Research & Development)
+### Graduate Research Assistant (Statistics & Psychological Science)  
+**Missouri S&T** — Jun 2024 – Aug 2024  
+- Assessed the **validity of Student Evaluations of Teaching (SET)** using **mixed-effects models** on **500+ course sections**.  
+- Calculated the **intraclass correlation coefficient (ICC)** to quantify **instructor-level effects** and developed a **performance-based metric**.  
+- Demonstrated **minimal instructor impact**, showing **SET variability reflects perception bias** rather than true performance.  
+- Presented findings to **leadership and at a conference**, influencing **promotion and policy decisions**.
 
-**Reinsurance Group of America (RGA) | Jun 2025 – Aug 2025**
-
-- Conducted an extensive literature review and collaborated with a **global team (U.S., U.K., and South Africa)** to identify **state-of-the-art methods** for dynamic mortality prediction.
-- Built and deployed **two joint survival models** integrating **Cox proportional hazards and linear mixed-effects models** using **SQL (Snowflake)** and **R (Domino)**, transforming static risk assessment into dynamic prediction.
-- Validated **Bayesian MCMC models** using trace, density, and cumulative mean diagnostics to ensure **convergence, stable parameter estimation, and reliable predictions**.
-- Processed **16M+ records across 400+ variables**, optimized data pipelines, and reduced computational complexity from **exponential to linear**, enabling scalable model deployment.
-- Maintained reproducible workflows using **GitHub Enterprise** and authored technical documentation for deployment.
-- Presented results to **40+ stakeholders**, translating advanced statistical methods into actionable insights for **underwriting, pricing, and valuation** teams.
-
-### 🔹 Graduate Research Assistant (Statistics & Psychological Science)
-**Missouri University of Science and Technology (Missouri S&T) | Jun 2024 – Aug 2024**
-
-- Evaluated the **validity of Student Evaluations of Teaching (SET)** using **mixed-effects models** across **500+ course sections**.
-- Estimated the **intraclass correlation coefficient (ICC)** to quantify instructor-level variability and developed a **performance-based evaluation metric**.
-- Demonstrated that **instructor effects were minimal**, suggesting that SET scores largely reflect **student perception bias** rather than teaching effectiveness.
-- Presented findings to university leadership and at a research conference, informing **faculty evaluation and promotion policies**.
-
-### 🔹 Graduate Teaching Assistant (Calculus & Applied Statistics)
-**Missouri University of Science and Technology (Missouri S&T) | Aug 2021 – May 2026**
-
-- Taught **Calculus** for two years (average teaching evaluation **3.5+/4.0**) before being promoted to teach **Applied Statistics** to **500+ engineering students**.
-- Delivered instruction on **sampling methods, hypothesis testing, ANOVA, correlation, and linear regression**.
-- Mentored **10+ capstone project teams**, guiding experimental design, statistical analysis, and technical reporting with **100% on-time completion**.
-- Improved teaching evaluation scores from **1.53 to 3.82/4.0** through student-centered instruction while maintaining **100% course pass rates**.
-
+### Graduate Teaching Assistant (Calculus & Applied Statistics)  
+**Missouri S&T** — Aug 2021 – May 2026  
+- Instructed **Calculus for 2 years** (average evaluation 3.5+/4.0), then promoted to **teach Statistics to 500+ engineering students**.  
+- Covered **sampling techniques, hypothesis testing, ANOVA, correlation, and linear regression** for statistical analysis.  
+- Supervised **10+ capstone projects** from design to data analysis and reporting, achieving **100% on-time completion**.  
+- Raised teaching score from **1.53 to 3.82/4.0** using **student-centered pedagogy**, with **100% pass rates**.  
 ---
 
 ## 🎓 Education
@@ -215,6 +210,21 @@ Collett, D. (2024). *Modelling Survival Data in Medical Research* (4th Edition).
 - ✈️ **AMS Travel Grant** (Invited Speaker), Mar 2025
 - ✈️ **NSF Travel Grant** (Poster Presentation), Nov 2024
 - 🎓 **PGSM Master's Scholarship**, Sorbonne University, France, Feb 2021
+
+---
+ 
+## 💬 Visit My Websites
+
+<div align="center">
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-EmmanuelDjegou-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-djegou-phd-5652b2254/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-EmmanuelDjegou-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/emmanueldjegou)
+[![YouTube EN](https://img.shields.io/badge/YouTube-English-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@emmanueldjegou44?si=Ov9jhXUDVwSb97p0)
+[![YouTube FR](https://img.shields.io/badge/YouTube-Français-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCqO0bDmzHVe7DjezToerYmw)
+[![Instagram](https://img.shields.io/badge/Instagram-EmmanuelDjegou-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emmanuel.djegou.official)
+[![Email](https://img.shields.io/badge/Email-emmanueldjegou5%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emmanueldjegou5@gmail.com)
+
+</div>
 
 ---
 
