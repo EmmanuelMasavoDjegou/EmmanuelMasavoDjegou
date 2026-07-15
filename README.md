@@ -31,30 +31,30 @@
 ## 💼 Work Experience
 
 ### 🔹 Global Data Science Intern (Research & Development)
-**Reinsurance Group of America (RGA)** · Jun 2025 to Aug 2025
+**Reinsurance Group of America (RGA)** | Jun 2025 – Aug 2025
 
-- Collaborated with a **global team (U.S., U.K., South Africa)** on a literature review to identify state-of-the-art methods for **dynamic mortality prediction**.
-- Built and deployed **two joint survival models** (Cox + linear mixed-effects) in **SQL (Snowflake)** and **R (Domino)**, turning static risk assessment into dynamic prediction.
-- Validated **Bayesian MCMC models** using trace, density, and cumulative mean diagnostics for convergence and stable estimation.
-- Processed **16M+ records across 400+ fields**, cutting computation time from **exponential to linear** for high-performance deployment.
-- Maintained reproducibility with **GitHub Enterprise** and authored deployment documentation.
-- Presented results to **40+ stakeholders**, translating Ph.D.-level analytics into insight for underwriting, pricing, and valuation teams.
+- Conducted an extensive literature review and collaborated with a **global team (U.S., U.K., and South Africa)** to identify **state-of-the-art methods** for dynamic mortality prediction.
+- Built and deployed **two joint survival models** integrating **Cox proportional hazards and linear mixed-effects models** using **SQL (Snowflake)** and **R (Domino)**, transforming static risk assessment into dynamic prediction.
+- Validated **Bayesian MCMC models** using trace, density, and cumulative mean diagnostics to ensure **convergence, stable parameter estimation, and reliable predictions**.
+- Processed **16M+ records across 400+ variables**, optimized data pipelines, and reduced computational complexity from **exponential to linear**, enabling scalable model deployment.
+- Maintained reproducible workflows using **GitHub Enterprise** and authored technical documentation for deployment.
+- Presented results to **40+ stakeholders**, translating advanced statistical methods into actionable insights for **underwriting, pricing, and valuation** teams.
 
-### 🔹 Graduate Research Assistant, Statistics & Psychological Science
-**Missouri S&T** · Jun 2024 to Aug 2024
+### 🔹 Graduate Research Assistant (Statistics & Psychological Science)
+**Missouri University of Science and Technology (Missouri S&T)** | Jun 2024 – Aug 2024
 
-- Assessed the validity of **Student Evaluations of Teaching (SET)** using mixed-effects models on **500+ course sections**.
-- Calculated the **intraclass correlation coefficient (ICC)** to quantify instructor-level effects and built a performance-based metric.
-- Found **minimal instructor impact**: SET variability reflects perception bias rather than true performance.
-- Presented findings to leadership and at a conference, informing promotion and policy decisions.
+- Evaluated the **validity of Student Evaluations of Teaching (SET)** using **mixed-effects models** across **500+ course sections**.
+- Estimated the **intraclass correlation coefficient (ICC)** to quantify instructor-level variability and developed a **performance-based evaluation metric**.
+- Demonstrated that **instructor effects were minimal**, suggesting that SET scores largely reflect **student perception bias** rather than teaching effectiveness.
+- Presented findings to university leadership and at a research conference, informing **faculty evaluation and promotion policies**.
 
-### 🔹 Graduate Teaching Assistant, Calculus & Applied Statistics
-**Missouri S&T** · Aug 2021 to May 2026
+### 🔹 Graduate Teaching Assistant (Calculus & Applied Statistics)
+**Missouri University of Science and Technology (Missouri S&T)** | Aug 2021 – May 2026
 
-- Taught **Calculus** for 2 years (avg. evaluation 3.5+/4.0), then promoted to teach **Statistics** to 500+ engineering students.
-- Covered sampling, hypothesis testing, ANOVA, correlation, and linear regression.
-- Supervised **10+ capstone projects** end-to-end with **100% on-time completion**.
-- Raised teaching score from **1.53 → 3.82/4.0** through student-centered pedagogy, with **100% pass rates**.
+- Taught **Calculus** for two years (average teaching evaluation **3.5+/4.0**) before being promoted to teach **Applied Statistics** to **500+ engineering students**.
+- Delivered instruction on **sampling methods, hypothesis testing, ANOVA, correlation, and linear regression**.
+- Mentored **10+ capstone project teams**, guiding experimental design, statistical analysis, and technical reporting with **100% on-time completion**.
+- Improved teaching evaluation scores from **1.53 to 3.82/4.0** through student-centered instruction while maintaining **100% course pass rates**.
 
 ---
 
