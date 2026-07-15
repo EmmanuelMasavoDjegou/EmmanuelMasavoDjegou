@@ -95,21 +95,24 @@
 
 ## 💻 Technical Expertise
 
-**Languages & Tools**
+**Languages & Tools:**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 ![JMP](https://img.shields.io/badge/JMP-004C97?style=flat-square)
 
-**Big Data & Platforms**
+**Big Data & Platforms:**
+
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 ![Git](https://img.shields.io/badge/Git%2FGitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Domino](https://img.shields.io/badge/Domino%20Data%20Lab-000000?style=flat-square)
 
-**ML / AI**
+**ML / AI:**
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
@@ -117,7 +120,8 @@
 ![PyMC](https://img.shields.io/badge/PyMC-blue?style=flat-square)
 ![lifelines](https://img.shields.io/badge/lifelines-teal?style=flat-square)
 
-**Data Visualization**
+**Data Visualization:**
+
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4c72b0?style=flat-square)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
