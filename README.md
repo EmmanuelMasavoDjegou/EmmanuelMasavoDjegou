@@ -213,7 +213,7 @@ Collett, D. (2024). *Modelling Survival Data in Medical Research* (4th Edition).
 
 <div align="center">
 
-📫 **Let's connect:** [emmanueldjegou5@gmail.com](mailto:emmanueldjegou5@gmail.com)
+📧 Reach Me At [emmanueldjegou5@gmail.com](mailto:emmanueldjegou5@gmail.com)
 
 </div>
 
