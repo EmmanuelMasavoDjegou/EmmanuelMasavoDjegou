@@ -17,7 +17,7 @@
  
 - AI & Deep Learning
 - Survival Analysis & Risk Modeling
-- 
+  
 ### 🎾 Beyond Work
  
 Outside of work, I stay disciplined through continuous learning, reading, training, and playing tennis.
