@@ -128,7 +128,15 @@
 ![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=flat-square)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
-**Methods:** GLMs · GAMs · Linear & Logistic Regression · Decision Trees · Random Forest · SVM · KNN · LSTMs · GRUs
+**🧮 Modeling Toolkit:**
+ 
+`📐 Regression:` GLMs · GAMs · Linear & Logistic Regression
+
+`🌳 Ensembles:` Decision Trees · Random Forest
+
+`📏 Kernel & Distance:` SVM · KNN
+
+`🔁 Sequence Learning:` LSTMs · GRUs
 
 ---
 
