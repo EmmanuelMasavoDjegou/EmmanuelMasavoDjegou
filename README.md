@@ -126,7 +126,7 @@ Outside of work, I stay disciplined through continuous learning, reading, traini
 
 **🧮 Modeling Toolkit:**
  
-`📐 Classical Statistical Models:` Linear Regression · Logistic Regression · GLMs · GAMs
+`📐 Classical Statistical Models:` GLMs · GAMs
 
 `⏳ Survial Models:` Cox Models · AFT Models  
 
