@@ -146,7 +146,6 @@ I have developed comprehensive graduate-level lecture materials covering advance
 
 ## 🧠 [Foundations of Deep Learning](https://github.com/EmmanuelMasavoDjegou/Foundations-of-Deep-Learning)
 
-**Repository:** 🔗 
 A comprehensive collection of graduate-level lecture slides covering the theoretical foundations and modern architectures of deep learning.
 
 ### 📚 Course Structure
@@ -174,9 +173,7 @@ A comprehensive collection of graduate-level lecture slides covering the theoret
 Goodfellow, I., Bengio, Y., & Courville, A. (2016). *Deep Learning*. MIT Press.
 
 
-## 🩺 Risk Modeling for Medical Applications
-
-**Repository:** 🔗 https://github.com/EmmanuelMasavoDjegou/Risk-Modeling-for-Medical-Applications
+## 🩺 [Risk Modeling for Medical Applications](https://github.com/EmmanuelMasavoDjegou/Risk-Modeling-for-Medical-Applications)
 
 A comprehensive collection of graduate-level lecture slides on survival analysis and modern risk modeling techniques for medical and clinical research, accompanied by practical R examples.
 
