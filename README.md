@@ -124,7 +124,7 @@ Outside of work, I stay disciplined through continuous learning, reading, traini
 ![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=flat-square)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
-**🧮 Modeling Toolkit:**
+**Modeling Toolkit:**
  
 `📐 Classical Statistical Models:` GLMs · GAMs
 
