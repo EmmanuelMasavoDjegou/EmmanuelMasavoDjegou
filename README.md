@@ -31,25 +31,25 @@
 ## 💼 Work Experience
 
 ### 🔹 Global Data Science Intern (Research & Development)
-**Reinsurance Group of America (RGA)** · Jun 2025 – Aug 2025
+**Reinsurance Group of America (RGA)** · Jun 2025 to Aug 2025
 
 - Collaborated with a **global team (U.S., U.K., South Africa)** on a literature review to identify state-of-the-art methods for **dynamic mortality prediction**.
-- Built and deployed **two joint survival models** (Cox + linear mixed-effects) in **SQL (Snowflake)** and **R (Domino)** — turning static risk assessment into dynamic prediction.
+- Built and deployed **two joint survival models** (Cox + linear mixed-effects) in **SQL (Snowflake)** and **R (Domino)**, turning static risk assessment into dynamic prediction.
 - Validated **Bayesian MCMC models** using trace, density, and cumulative mean diagnostics for convergence and stable estimation.
 - Processed **16M+ records across 400+ fields**, cutting computation time from **exponential to linear** for high-performance deployment.
 - Maintained reproducibility with **GitHub Enterprise** and authored deployment documentation.
 - Presented results to **40+ stakeholders**, translating Ph.D.-level analytics into insight for underwriting, pricing, and valuation teams.
 
-### 🔹 Graduate Research Assistant — Statistics & Psychological Science
-**Missouri S&T** · Jun 2024 – Aug 2024
+### 🔹 Graduate Research Assistant, Statistics & Psychological Science
+**Missouri S&T** · Jun 2024 to Aug 2024
 
 - Assessed the validity of **Student Evaluations of Teaching (SET)** using mixed-effects models on **500+ course sections**.
 - Calculated the **intraclass correlation coefficient (ICC)** to quantify instructor-level effects and built a performance-based metric.
-- Found **minimal instructor impact** — SET variability reflects perception bias rather than true performance.
+- Found **minimal instructor impact**: SET variability reflects perception bias rather than true performance.
 - Presented findings to leadership and at a conference, informing promotion and policy decisions.
 
-### 🔹 Graduate Teaching Assistant — Calculus & Applied Statistics
-**Missouri S&T** · Aug 2021 – May 2026
+### 🔹 Graduate Teaching Assistant, Calculus & Applied Statistics
+**Missouri S&T** · Aug 2021 to May 2026
 
 - Taught **Calculus** for 2 years (avg. evaluation 3.5+/4.0), then promoted to teach **Statistics** to 500+ engineering students.
 - Covered sampling, hypothesis testing, ANOVA, correlation, and linear regression.
@@ -60,7 +60,7 @@
 
 ## 🎓 Education
 
-**Ph.D. in Statistics** — Missouri University of Science & Technology (Missouri S&T)
+**Ph.D. in Statistics**, Missouri University of Science & Technology (Missouri S&T)
 **Graduation:** May 2026
 **Thesis:** [Essays on Accelerated Failure Time Models for Recurrent Event Data](https://doi.org/10.13140/RG.2.2.19972.69760)
 
@@ -125,45 +125,90 @@
 
 ---
 
-## 📖 Educational Courses I've Built
+ # 📖 Educational Courses I've Built
 
-<details>
-<summary><b>🧠 Foundations of Deep Learning</b> — <a href="https://github.com/EmmanuelMasavoDjegou/Foundations-of-Deep-Learning">Repository</a></summary>
-<br>
-
-Lecture slides covering the theoretical foundations and modern architectures of deep learning.
-
-- 📊 4 main chapters spanning 10 modules
-- 📋 Topics: ML Foundations · Neural Networks & Backpropagation · Regularization & Optimization · CNNs · RNNs/LSTMs/GRUs · Attention & Transformers · LLMs
-- 👥 Audience: Graduate students, data scientists, ML engineers, AI researchers
-- 📖 Primary reference: Goodfellow, Bengio & Courville (2016), *Deep Learning*, MIT Press
-
-</details>
-
-<details>
-<summary><b>🩺 Risk Modeling for Medical Applications</b> — <a href="https://github.com/EmmanuelMasavoDjegou/Risk-Modeling-for-Medical-Applications">Repository</a></summary>
-<br>
-
-Lecture slides on survival analysis and modern risk modeling methods for medical applications.
-
-- 📊 3 main modules with R examples
-- 📋 Topics: Survival Analysis Basics (Censoring, Kaplan-Meier, Nelson-Aalen) · Cox Proportional Hazards · Hazard Ratios & Model Building · Parametric Regression (Exponential, Weibull, Log-Normal) · AFT Models · Model Validation & Diagnostics · Risk-Adjusted Survival Curves
-- 👥 Audience: Graduate students, biostatisticians, medical researchers, epidemiologists, clinical researchers
-- 📖 Primary reference: Collett, D. (2024), *Modelling Survival Data in Medical Research* (4th Ed.), CRC Press
-
-</details>
+I have developed comprehensive graduate-level lecture materials covering advanced topics in machine learning, deep learning, and statistical modeling.
 
 ---
 
+## 🧠 Foundations of Deep Learning
+
+**Repository:**  
+🔗 https://github.com/EmmanuelMasavoDjegou/Foundations-of-Deep-Learning
+
+A comprehensive collection of graduate-level lecture slides covering the theoretical foundations and modern architectures of deep learning.
+
+### 📚 Course Structure
+- **4 Chapters**
+- **10 Modules**
+
+### 📋 Topics Covered
+- Machine Learning Foundations
+- Neural Networks and Backpropagation
+- Regularization Techniques
+- Optimization Algorithms
+- Convolutional Neural Networks (CNNs)
+- Recurrent Neural Networks (RNNs, LSTMs, and GRUs)
+- Attention Mechanisms
+- Transformers
+- Large Language Models (LLMs)
+
+### 👥 Intended Audience
+- Graduate Students
+- Data Scientists
+- Machine Learning Engineers
+- AI Researchers
+
+### 📖 Primary Reference
+Goodfellow, I., Bengio, Y., & Courville, A. (2016). *Deep Learning*. MIT Press.
+
+---
+
+## 🩺 Risk Modeling for Medical Applications
+
+**Repository:**  
+🔗 https://github.com/EmmanuelMasavoDjegou/Risk-Modeling-for-Medical-Applications
+
+A comprehensive collection of graduate-level lecture slides on survival analysis and modern risk modeling techniques for medical and clinical research, accompanied by practical R examples.
+
+### 📚 Course Structure
+- **3 Modules**
+- **Hands-on R Examples**
+
+### 📋 Topics Covered
+- Survival Analysis Fundamentals
+- Censoring Mechanisms
+- Kaplan-Meier Estimation
+- Nelson-Aalen Estimation
+- Cox Proportional Hazards Model
+- Hazard Ratios and Model Building
+- Parametric Survival Models (Exponential, Weibull, Log-Normal, etc.)
+- Accelerated Failure Time (AFT) Models
+- Model Validation and Diagnostics
+- Risk-Adjusted Survival Curves
+
+### 👥 Intended Audience
+- Graduate Students
+- Biostatisticians
+- Medical Researchers
+- Epidemiologists
+- Clinical Researchers
+
+### 📖 Primary Reference
+Collett, D. (2024). *Modelling Survival Data in Medical Research* (4th Edition). CRC Press.
+
+
+
+
 ## 🏆 Awards, Scholarships & Grants
 
-- 🥇 **Louis Grimm Overall Excellence Fellowship Award** — Apr 2026
-- 🎥 **CodeSignal Feature** (Video & Blog) — Jul 2025
-- 🎖️ **Paul W. Eloe Research Award** (Honorable Mention) — Apr 2025
-- ✈️ **Graduate Education & CASE Travel Grant** — Mar 2025
-- ✈️ **AMS Travel Grant** (Invited Speaker) — Mar 2025
-- ✈️ **NSF Travel Grant** (Poster Presentation) — Nov 2024
-- 🎓 **PGSM Master's Scholarship**, Sorbonne University, France — Feb 2021
+- 🥇 **Louis Grimm Overall Excellence Fellowship Award**, Apr 2026
+- 🎥 **CodeSignal Feature** (Video & Blog), Jul 2025
+- 🎖️ **Paul W. Eloe Research Award** (Honorable Mention), Apr 2025
+- ✈️ **Graduate Education & CASE Travel Grant**, Mar 2025
+- ✈️ **AMS Travel Grant** (Invited Speaker), Mar 2025
+- ✈️ **NSF Travel Grant** (Poster Presentation), Nov 2024
+- 🎓 **PGSM Master's Scholarship**, Sorbonne University, France, Feb 2021
 
 ---
 
