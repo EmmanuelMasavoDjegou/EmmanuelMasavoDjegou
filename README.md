@@ -128,9 +128,9 @@ Outside of work, I stay disciplined through continuous learning, reading, traini
  
 `📐 Classical Statistical Models:` Linear Regression · Logistic Regression · GLMs · GAMs
 
-`⏳ Survial Models: Cox Models · AFT Models  
+`⏳ Survial Models:` Cox Models · AFT Models  
 
-`🌳 Tree & Ensemble Models:` Decision Trees · Random Forest · CatBoost · LightGBM · AdaBoost · XGBoost
+`🌳 Tree & Ensemble Models:` Decision Trees · Random Forest · XGBoost
 
 `📏 Kernel & Distance:` SVM · KNN
 
