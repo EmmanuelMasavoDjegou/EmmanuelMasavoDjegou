@@ -31,7 +31,9 @@
 ## 💼 Work Experience
 
 ### 🔹 Global Data Science Intern (Research & Development)
-**Reinsurance Group of America (RGA)** | Jun 2025 – Aug 2025
+<details>
+<summary><b>**Reinsurance Group of America (RGA)** | Jun 2025 – Aug 2025</b></summary>
+<br>
 
 - Conducted an extensive literature review and collaborated with a **global team (U.S., U.K., and South Africa)** to identify **state-of-the-art methods** for dynamic mortality prediction.
 - Built and deployed **two joint survival models** integrating **Cox proportional hazards and linear mixed-effects models** using **SQL (Snowflake)** and **R (Domino)**, transforming static risk assessment into dynamic prediction.
@@ -39,6 +41,8 @@
 - Processed **16M+ records across 400+ variables**, optimized data pipelines, and reduced computational complexity from **exponential to linear**, enabling scalable model deployment.
 - Maintained reproducible workflows using **GitHub Enterprise** and authored technical documentation for deployment.
 - Presented results to **40+ stakeholders**, translating advanced statistical methods into actionable insights for **underwriting, pricing, and valuation** teams.
+
+</details>
 
 ### 🔹 Graduate Research Assistant (Statistics & Psychological Science)
 **Missouri University of Science and Technology (Missouri S&T)** | Jun 2024 – Aug 2024
