@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Emmanuel Djegou 👋
+# Hi, I'm Emmanuel 👋
 
 ### Ph.D. in Statistics · AI & Deep Learning · Survival Analysis & Risk Modeling 
 
