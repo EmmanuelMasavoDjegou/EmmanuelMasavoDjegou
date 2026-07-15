@@ -67,7 +67,7 @@ Outside of work, I stay disciplined through continuous learning, reading, traini
 
 ---
 
-## 📚 Seminal Research Papers
+## 📚 Research Papers
 
 <p>
   🔬 <b>Framework:</b>
