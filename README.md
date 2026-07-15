@@ -81,6 +81,7 @@
 ## 📚 Research Papers
 
 🔬 **Framework:** [Statistical Methods for Survival Data Modeling in the Era of AI](https://github.com/EmmanuelMasavoDjegou/Emmanuel-Djegou-Research-Framework)
+
 📄 **Abstracts & Authors:** [Full Publication List](https://github.com/EmmanuelMasavoDjegou/Research-Papers)
 
 | # | Title | Journal | Status | Year |
