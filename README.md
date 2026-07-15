@@ -134,7 +134,7 @@ Outside of work, I stay disciplined through continuous learning, reading, traini
 
 `📏 Kernel & Distance:` SVM · KNN
 
-`🔁 Sequence Learning:` LSTMs · GRUs
+`🔁 Deep Learning:` LSTMs · GRUs
 
 ---
 
