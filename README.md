@@ -102,7 +102,6 @@ Outside of work, I stay disciplined through continuous learning, reading, traini
 **Big Data & Platforms:**
 
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 ![Git](https://img.shields.io/badge/Git%2FGitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Domino](https://img.shields.io/badge/Domino%20Data%20Lab-000000?style=flat-square)
