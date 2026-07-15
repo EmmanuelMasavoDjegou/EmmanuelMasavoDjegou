@@ -126,9 +126,11 @@ Outside of work, I stay disciplined through continuous learning, reading, traini
 
 **🧮 Modeling Toolkit:**
  
-`📐 Regression:` GLMs · GAMs · Linear & Logistic Regression
+`📐 Classical Statistical Models:` Linear Regression · Logistic Regression · Generalized Linear Models (GLMs) · Generalized Additive Models (GAMs)
 
-`🌳 Ensembles:` Decision Trees · Random Forest
+`⏳ Survial Models: Cox Models · AFT Models  
+
+`🌳 Tree & Ensemble Models:` Decision Trees · Random Forest · CatBoost · LightGBM · AdaBoost · XGBoost
 
 `📏 Kernel & Distance:` SVM · KNN
 
