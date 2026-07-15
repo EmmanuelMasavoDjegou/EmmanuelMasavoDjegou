@@ -132,8 +132,6 @@
 
 I have developed comprehensive graduate-level lecture materials covering advanced topics in machine learning, deep learning, and statistical modeling.
 
----
-
 ## 🧠 Foundations of Deep Learning
 
 **Repository:**  
@@ -165,7 +163,6 @@ A comprehensive collection of graduate-level lecture slides covering the theoret
 ### 📖 Primary Reference
 Goodfellow, I., Bengio, Y., & Courville, A. (2016). *Deep Learning*. MIT Press.
 
----
 
 ## 🩺 Risk Modeling for Medical Applications
 
@@ -200,8 +197,7 @@ A comprehensive collection of graduate-level lecture slides on survival analysis
 ### 📖 Primary Reference
 Collett, D. (2024). *Modelling Survival Data in Medical Research* (4th Edition). CRC Press.
 
-
-
+---
 
 ## 🏆 Awards, Scholarships & Grants
 
