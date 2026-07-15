@@ -140,14 +140,13 @@
 
 ---
 
- # 📖 Educational Courses I've Built
+ # 📖 Educational Courses
 
 I have developed comprehensive graduate-level lecture materials covering advanced topics in machine learning, deep learning, and statistical modeling.
 
-## 🧠 Foundations of Deep Learning
+## 🧠 [Foundations of Deep Learning](https://github.com/EmmanuelMasavoDjegou/Foundations-of-Deep-Learning)
 
-**Repository:** 🔗 https://github.com/EmmanuelMasavoDjegou/Foundations-of-Deep-Learning
-
+**Repository:** 🔗 
 A comprehensive collection of graduate-level lecture slides covering the theoretical foundations and modern architectures of deep learning.
 
 ### 📚 Course Structure
