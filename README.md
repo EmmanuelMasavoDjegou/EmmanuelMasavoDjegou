@@ -31,9 +31,8 @@
 ## 💼 Work Experience
 
 ### 🔹 Global Data Science Intern (Research & Development)
-<details>
-<summary><b>**Reinsurance Group of America (RGA)** | Jun 2025 – Aug 2025</b></summary>
-<br>
+
+**Reinsurance Group of America (RGA) | Jun 2025 – Aug 2025**
 
 - Conducted an extensive literature review and collaborated with a **global team (U.S., U.K., and South Africa)** to identify **state-of-the-art methods** for dynamic mortality prediction.
 - Built and deployed **two joint survival models** integrating **Cox proportional hazards and linear mixed-effects models** using **SQL (Snowflake)** and **R (Domino)**, transforming static risk assessment into dynamic prediction.
@@ -42,10 +41,8 @@
 - Maintained reproducible workflows using **GitHub Enterprise** and authored technical documentation for deployment.
 - Presented results to **40+ stakeholders**, translating advanced statistical methods into actionable insights for **underwriting, pricing, and valuation** teams.
 
-</details>
-
 ### 🔹 Graduate Research Assistant (Statistics & Psychological Science)
-**Missouri University of Science and Technology (Missouri S&T)** | Jun 2024 – Aug 2024
+**Missouri University of Science and Technology (Missouri S&T) | Jun 2024 – Aug 2024**
 
 - Evaluated the **validity of Student Evaluations of Teaching (SET)** using **mixed-effects models** across **500+ course sections**.
 - Estimated the **intraclass correlation coefficient (ICC)** to quantify instructor-level variability and developed a **performance-based evaluation metric**.
@@ -53,7 +50,7 @@
 - Presented findings to university leadership and at a research conference, informing **faculty evaluation and promotion policies**.
 
 ### 🔹 Graduate Teaching Assistant (Calculus & Applied Statistics)
-**Missouri University of Science and Technology (Missouri S&T)** | Aug 2021 – May 2026
+**Missouri University of Science and Technology (Missouri S&T) | Aug 2021 – May 2026**
 
 - Taught **Calculus** for two years (average teaching evaluation **3.5+/4.0**) before being promoted to teach **Applied Statistics** to **500+ engineering students**.
 - Delivered instruction on **sampling methods, hypothesis testing, ANOVA, correlation, and linear regression**.
