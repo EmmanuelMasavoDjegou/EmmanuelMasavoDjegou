@@ -1,185 +1,177 @@
-# 👋 Hi, I'm Emmanuel
+<div align="center">
+
+# Hi, I'm Emmanuel Djegou 👋
+
+### Ph.D. in Statistics · AI & Deep Learning · Survival Analysis & Risk Modeling 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-EmmanuelDjegou-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-djegou-phd-5652b2254/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-EmmanuelDjegou-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/emmanueldjegou)
+[![YouTube EN](https://img.shields.io/badge/YouTube-English-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@emmanueldjegou44?si=Ov9jhXUDVwSb97p0)
+[![YouTube FR](https://img.shields.io/badge/YouTube-Français-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCqO0bDmzHVe7DjezToerYmw)
+[![Instagram](https://img.shields.io/badge/Instagram-EmmanuelDjegou-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emmanuel.djegou.official)
+[![Email](https://img.shields.io/badge/Email-emmanueldjegou5%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emmanueldjegou5@gmail.com)
+
+</div>
+
 ---
 
-## 🔹 About Me
+## 🚀 At a Glance
 
-### 🚀 Strongest Achievements
-
-- 🎓 Successfully completed a **Ph.D. in Statistics** in 5 years
+- 🎓 **Ph.D. in Statistics** completed in 5 years (Missouri S&T, May 2026)
 - 📊 Built and deployed **two joint survival models** on **16M+ records** at RGA
-- 🤖 Expertise in **deep learning, survival analysis, joint modeling, mixed-effects models, and meta-analysis**
-- 📝 Published researcher and invited conference speaker
-- 🏆 Recipient of multiple awards, scholarships, and research grants
-- 👨‍🏫 Taught **calculus** and **applied statistics** to more than **500 engineering students**
-- 📈 Completed **10+ applied data science and machine learning projects** on Kaggle
-
-### 💡 Areas of Interest
-
-- AI & Deep Learning
-- Survival Analysis & Risk Modeling
-
-### 🎾 Beyond Work
-
-Outside of work, I stay disciplined through continuous learning, reading, training, and playing tennis.
-
-### 📫 Contact
-
-📧 **Email:** emmanueldjegou5@gmail.com
-
----
-
-## 🎓 Education
-
-**Ph.D. in Statistics**, Missouri University of Science & Technology (Missouri S&T)  
-**Graduation:** May 2026  
-**Thesis:** [Essays on Accelerated Failure Time Models for Recurrent Event Data](https://doi.org/10.13140/RG.2.2.19972.69760)  
-**Selected Coursework:**  
-- Regression Analysis · Linear Models · Multivariate Analysis · Categorical Data Analysis · Nonparametric Methods  
-- Stochastic Processes · Time Series Analysis · Computational Bayesian Methods  
-- Applied Matrix Theory · Financial Mathematics  
+- 🤖 Expertise in **deep learning, survival analysis, joint modeling, mixed-effects models & meta-analysis**
+- 📝 **4 publications** in progress/under review · Invited conference speaker
+- 🏆 Multiple **awards, scholarships & research grants**
+- 👨‍🏫 Taught **calculus & applied statistics** to **500+ engineering students**
+- 📈 **10+ applied data science & ML projects** on Kaggle
+- 🎾 Off the clock: reading, training, and tennis
 
 ---
 
 ## 💼 Work Experience
 
-### Global Data Science Intern (Research & Development)  
-**Reinsurance Group of America** — Jun 2025 – Aug 2025  
-- Conducted an extensive literature review and collaborated with a **global team (U.S., U.K., South Africa)** to identify **state-of-the-art methods** for dynamic mortality prediction.  
-- Built and deployed **two joint survival models** using **Cox and linear mixed-effects models** in **SQL (Snowflake)** and **R (Domino)**, transforming **static risk assessment into dynamic prediction**.  
-- Validated **Bayesian MCMC models** using trace, density, and cumulative mean diagnostics to ensure **convergence, stable parameter estimation, and reliable predictions**.  
-- Processed **16M+ records across 400+ fields**, streamlined data pipelines, and reduced computation time from **exponential to linear**, enabling **high-performance deployment**.  
-- Maintained **reproducibility and version control** with GitHub Enterprise and authored **deployment documentation**.  
-- Presented results to **40+ stakeholders**, translating **Ph.D.-level analytics into actionable insights** across multiple business units, including underwriting, pricing, and valuation.  
+### 🔹 Global Data Science Intern (Research & Development)
+**Reinsurance Group of America (RGA)** · Jun 2025 – Aug 2025
 
-### Graduate Research Assistant (Statistics & Psychological Science)  
-**Missouri S&T** — Jun 2024 – Aug 2024  
-- Assessed the **validity of Student Evaluations of Teaching (SET)** using **mixed-effects models** on **500+ course sections**.  
-- Calculated the **intraclass correlation coefficient (ICC)** to quantify **instructor-level effects** and developed a **performance-based metric**.  
-- Demonstrated **minimal instructor impact**, showing **SET variability reflects perception bias** rather than true performance.  
-- Presented findings to **leadership and at a conference**, influencing **promotion and policy decisions**.  
+- Collaborated with a **global team (U.S., U.K., South Africa)** on a literature review to identify state-of-the-art methods for **dynamic mortality prediction**.
+- Built and deployed **two joint survival models** (Cox + linear mixed-effects) in **SQL (Snowflake)** and **R (Domino)** — turning static risk assessment into dynamic prediction.
+- Validated **Bayesian MCMC models** using trace, density, and cumulative mean diagnostics for convergence and stable estimation.
+- Processed **16M+ records across 400+ fields**, cutting computation time from **exponential to linear** for high-performance deployment.
+- Maintained reproducibility with **GitHub Enterprise** and authored deployment documentation.
+- Presented results to **40+ stakeholders**, translating Ph.D.-level analytics into insight for underwriting, pricing, and valuation teams.
 
-### Graduate Teaching Assistant (Calculus & Applied Statistics)  
-**Missouri S&T** — Aug 2021 – May 2026  
-- Instructed **Calculus for 2 years** (average evaluation 3.5+/4.0), then promoted to **teach Statistics to 500+ engineering students**.  
-- Covered **sampling techniques, hypothesis testing, ANOVA, correlation, and linear regression** for statistical analysis.  
-- Supervised **10+ capstone projects** from design to data analysis and reporting, achieving **100% on-time completion**.  
-- Raised teaching score from **1.53 to 3.82/4.0** using **student-centered pedagogy**, with **100% pass rates**.  
+### 🔹 Graduate Research Assistant — Statistics & Psychological Science
+**Missouri S&T** · Jun 2024 – Aug 2024
+
+- Assessed the validity of **Student Evaluations of Teaching (SET)** using mixed-effects models on **500+ course sections**.
+- Calculated the **intraclass correlation coefficient (ICC)** to quantify instructor-level effects and built a performance-based metric.
+- Found **minimal instructor impact** — SET variability reflects perception bias rather than true performance.
+- Presented findings to leadership and at a conference, informing promotion and policy decisions.
+
+### 🔹 Graduate Teaching Assistant — Calculus & Applied Statistics
+**Missouri S&T** · Aug 2021 – May 2026
+
+- Taught **Calculus** for 2 years (avg. evaluation 3.5+/4.0), then promoted to teach **Statistics** to 500+ engineering students.
+- Covered sampling, hypothesis testing, ANOVA, correlation, and linear regression.
+- Supervised **10+ capstone projects** end-to-end with **100% on-time completion**.
+- Raised teaching score from **1.53 → 3.82/4.0** through student-centered pedagogy, with **100% pass rates**.
+
+---
+
+## 🎓 Education
+
+**Ph.D. in Statistics** — Missouri University of Science & Technology (Missouri S&T)
+**Graduation:** May 2026
+**Thesis:** [Essays on Accelerated Failure Time Models for Recurrent Event Data](https://doi.org/10.13140/RG.2.2.19972.69760)
+
+<details>
+<summary><b>Selected Coursework</b></summary>
+<br>
+
+- Regression Analysis · Linear Models · Multivariate Analysis · Categorical Data Analysis · Nonparametric Methods
+- Stochastic Processes · Time Series Analysis · Computational Bayesian Methods
+- Applied Matrix Theory · Financial Mathematics
+
+</details>
 
 ---
 
 ## 📚 Research Papers
 
-<p>
-  🔬 <b>Framework:</b>
-  <a href="https://github.com/EmmanuelMasavoDjegou/Emmanuel-Djegou-Research-Framework">Statistical Methods for Survival Data Modeling in the Era of AI</a>
-  <br>
-  <br>
-  📄 <b>Abstracts & Authors:</b>
-  <a href="https://github.com/EmmanuelMasavoDjegou/Research-Papers">Full Publication List</a>
-</p>
+🔬 **Framework:** [Statistical Methods for Survival Data Modeling in the Era of AI](https://github.com/EmmanuelMasavoDjegou/Emmanuel-Djegou-Research-Framework)
+📄 **Abstracts & Authors:** [Full Publication List](https://github.com/EmmanuelMasavoDjegou/Research-Papers)
 
 | # | Title | Journal | Status | Year |
 |:---:|:---|:---|:---:|:---:|
-| 4 | **Statistical Validation of Cox-Based Deep Survival Models Using Generalized Residual Diagnostics** | *Biostatistics* | ![In Progress](https://img.shields.io/badge/In%20Progress-blue) | 2026 | 
-| 3 | **Hierarchical Variable Selection for Nonconvex Penalized Cox Models in IPD Meta-Analysis** | *Biostatistics* | ![Completed](https://img.shields.io/badge/Submitted-green) | 2026 | 
-| 2 | **RNN-AGT: A Recurrent Neural Network Framework for Accelerated Gap-Time Models via Gehan-Type Rank Loss** | *Statistics in Medicine* | ![Completed](https://img.shields.io/badge/Submitted-green) | 2026 |
-| 1 | **Efficient Estimation in Semiparametric Accelerated Gap-Time Models for Recurrent Event Data** | *The Canadian Journal of Statistics* | ![Completed](https://img.shields.io/badge/Submitted-green) | 2026 | 
-
----
-
-## 📖 Educational Courses
-
-I have created comprehensive lecture materials on advanced topics in machine learning and statistics:
-
-### 🧠 **Foundations of Deep Learning**
-**Repository:** [Foundations-of-Deep-Learning](https://github.com/EmmanuelMasavoDjegou/Foundations-of-Deep-Learning)
-
-A collection of **lecture slides** covering the theoretical foundations and modern architectures of deep learning.
-
-- 📊 **4 Main Chapters** spanning **10 Modules**
-- 📋 **Topics Covered:**
-  - Machine Learning Foundations
-  - Neural Networks & Backpropagation
-  - Regularization & Optimization
-  - Convolutional Neural Networks (CNNs)
-  - Recurrent Neural Networks (RNNs, LSTMs, GRUs)
-  - Attention Mechanisms & Transformers
-  - Large Language Models (LLMs)
-
-- 👥 **Intended Audience:** Graduate Students, Data Scientists, ML Engineers, AI Researchers
-- 📖 **Primary Reference:** Goodfellow, Bengio & Courville (2016). *Deep Learning*. MIT Press.
-
-
-### 🩺 **Risk Modeling for Medical Applications**
-**Repository:** [Risk-Modeling-for-Medical-Applications](https://github.com/EmmanuelMasavoDjegou/Risk-Modeling-for-Medical-Applications)
-
-A comprehensive collection of **lecture slides** on **survival analysis** and **modern risk modeling methods** for medical applications.
-
-- 📊 **3 Main Modules** with **R Examples**
-- 📋 **Topics Covered:**
-  - Survival Analysis Basics (Censoring, Kaplan-Meier, Nelson-Aalen)
-  - Cox Proportional Hazards Model
-  - Hazard Ratios & Model Building
-  - Parametric Regression Models (Exponential, Weibull, Log-Normal, etc.)
-  - Accelerated Failure Time (AFT) Models
-  - Model Validation & Diagnostics
-  - Risk-Adjusted Survival Curves
-
-- 👥 **Intended Audience:** Graduate Students, Biostatisticians, Medical Researchers, Epidemiologists, Clinical Researchers
-- 📖 **Primary Reference:** Collett, D. (2024). *Modelling Survival Data in Medical Research* (4th Edition). CRC Press.
-
----
-
-## 🏆 Awards, Scholarships & Grants
-
-- **Louis Grimm Overall Excellence Fellowship Award** — Apr 2026
-- **CodeSignal Feature (Video & Blog)** — Jul 2025  
-- **Paul W. Eloe Research Award (Honorable Mention)** — Apr 2025  
-- **Graduate Education & College of Arts, Sciences, and Education Travel Grant** — Mar 2025  
-- **AMS Travel Grant (Invited Speaker)** — Mar 2025  
-- **NSF Travel Grant (Poster Presentation)** — Nov 2024  
-- **PGSM Master's Scholarship (Sorbonne University, France)** — Feb 2021  
+| 4 | **Statistical Validation of Cox-Based Deep Survival Models Using Generalized Residual Diagnostics** | *Biostatistics* | ![In Progress](https://img.shields.io/badge/In%20Progress-blue) | 2026 |
+| 3 | **Hierarchical Variable Selection for Nonconvex Penalized Cox Models in IPD Meta-Analysis** | *Biostatistics* | ![Submitted](https://img.shields.io/badge/Submitted-green) | 2026 |
+| 2 | **RNN-AGT: A Recurrent Neural Network Framework for Accelerated Gap-Time Models via Gehan-Type Rank Loss** | *Statistics in Medicine* | ![Submitted](https://img.shields.io/badge/Submitted-green) | 2026 |
+| 1 | **Efficient Estimation in Semiparametric Accelerated Gap-Time Models for Recurrent Event Data** | *The Canadian Journal of Statistics* | ![Submitted](https://img.shields.io/badge/Submitted-green) | 2026 |
 
 ---
 
 ## 💻 Technical Expertise
 
-**Programming:** Python · R · SQL · MATLAB · JMP  
+**Languages & Tools**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![JMP](https://img.shields.io/badge/JMP-004C97?style=flat-square)
 
-**Data Visualization:** Matplotlib · Seaborn · Plotly · Cufflinks · ggplot2 · Tableau  
+**Big Data & Platforms**
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Git](https://img.shields.io/badge/Git%2FGitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Domino](https://img.shields.io/badge/Domino%20Data%20Lab-000000?style=flat-square)
 
-**Big Data Platforms & Tools:** Snowflake · Git/GitHub · Domino Data Lab · Databricks · Linux  
+**ML / AI**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![PyMC](https://img.shields.io/badge/PyMC-blue?style=flat-square)
+![lifelines](https://img.shields.io/badge/lifelines-teal?style=flat-square)
 
-**ML / AI Techniques:** GLMs · GAMs · Linear & Logistic Regression · Decision Trees · Random Forest · SVM · KNN · LSTMs · GRUs 
+**Data Visualization**
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-4c72b0?style=flat-square)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=flat-square)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
-**ML / AI Packages & Tools:** TensorFlow · PyTorch · Keras · Scikit-Learn · PyMC · jmBIG · lifelines  
-
+**Methods:** GLMs · GAMs · Linear & Logistic Regression · Decision Trees · Random Forest · SVM · KNN · LSTMs · GRUs
 
 ---
 
-## 💬 Visit My Websites
+## 📖 Educational Courses I've Built
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/emmanuel-djegou-phd-5652b2254/">
-    <img src="https://img.shields.io/badge/LinkedIn-EmmanuelDjegou-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://youtube.com/@emmanueldjegou44?si=Ov9jhXUDVwSb97p0">
-    <img src="https://img.shields.io/badge/YouTube-EmmanuelDjegou(En)-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UCqO0bDmzHVe7DjezToerYmw">
-    <img src="https://img.shields.io/badge/YouTube-EmmanuelDjegou(Fr)-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
-  </a>
-  <a href="https://www.kaggle.com/emmanueldjegou">
-    <img src="https://img.shields.io/badge/Kaggle-EmmanuelDjegou-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
-  </a>
-  <a href="https://www.instagram.com/emmanuel.djegou.official">
-    <img src="https://img.shields.io/badge/Instagram-EmmanuelDjegou-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="mailto:emmanueldjegou5@gmail.com">
-    <img src="https://img.shields.io/badge/email-emmanueldjegou5@gmail.com-blue?logo=gmail&logoColor=white&style=for-the-badge" alt="Email Badge"/>
-  </a>
-</p>
+<details>
+<summary><b>🧠 Foundations of Deep Learning</b> — <a href="https://github.com/EmmanuelMasavoDjegou/Foundations-of-Deep-Learning">Repository</a></summary>
+<br>
 
+Lecture slides covering the theoretical foundations and modern architectures of deep learning.
+
+- 📊 4 main chapters spanning 10 modules
+- 📋 Topics: ML Foundations · Neural Networks & Backpropagation · Regularization & Optimization · CNNs · RNNs/LSTMs/GRUs · Attention & Transformers · LLMs
+- 👥 Audience: Graduate students, data scientists, ML engineers, AI researchers
+- 📖 Primary reference: Goodfellow, Bengio & Courville (2016), *Deep Learning*, MIT Press
+
+</details>
+
+<details>
+<summary><b>🩺 Risk Modeling for Medical Applications</b> — <a href="https://github.com/EmmanuelMasavoDjegou/Risk-Modeling-for-Medical-Applications">Repository</a></summary>
+<br>
+
+Lecture slides on survival analysis and modern risk modeling methods for medical applications.
+
+- 📊 3 main modules with R examples
+- 📋 Topics: Survival Analysis Basics (Censoring, Kaplan-Meier, Nelson-Aalen) · Cox Proportional Hazards · Hazard Ratios & Model Building · Parametric Regression (Exponential, Weibull, Log-Normal) · AFT Models · Model Validation & Diagnostics · Risk-Adjusted Survival Curves
+- 👥 Audience: Graduate students, biostatisticians, medical researchers, epidemiologists, clinical researchers
+- 📖 Primary reference: Collett, D. (2024), *Modelling Survival Data in Medical Research* (4th Ed.), CRC Press
+
+</details>
+
+---
+
+## 🏆 Awards, Scholarships & Grants
+
+- 🥇 **Louis Grimm Overall Excellence Fellowship Award** — Apr 2026
+- 🎥 **CodeSignal Feature** (Video & Blog) — Jul 2025
+- 🎖️ **Paul W. Eloe Research Award** (Honorable Mention) — Apr 2025
+- ✈️ **Graduate Education & CASE Travel Grant** — Mar 2025
+- ✈️ **AMS Travel Grant** (Invited Speaker) — Mar 2025
+- ✈️ **NSF Travel Grant** (Poster Presentation) — Nov 2024
+- 🎓 **PGSM Master's Scholarship**, Sorbonne University, France — Feb 2021
+
+---
+
+<div align="center">
+
+📫 **Let's connect:** [emmanueldjegou5@gmail.com](mailto:emmanueldjegou5@gmail.com)
+
+</div>
 
 <!---
 EmmanuelMasavoDjegou/EmmanuelMasavoDjegou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
