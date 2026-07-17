@@ -83,7 +83,7 @@ Outside of work, I stay disciplined through continuous learning, reading, traini
 | # | Title | Journal | Status | Year |
 |:---:|:---|:---|:---:|:---:|
 | 4 | **Statistical Validation of Cox-Based Deep Survival Models Using Residual Diagnostics** | *Biostatistics* | ![In Progress](https://img.shields.io/badge/In%20Progress-blue) | 2026 |
-| 3 | **Hierarchical Variable Selection for Nonconvex Penalized Cox Models in Individual-Participant-Data Meta-Analysis** | *Biostatistics* | ![Submitted](https://img.shields.io/badge/Submitted-green) | 2026 |
+| 3 | **Hierarchical Variable Selection for Nonconvex Penalized Cox Models in Individual-Participant-Data Meta-Analysis** | *Lifetime Data Analysis* | ![Submitted](https://img.shields.io/badge/Submitted-green) | 2026 |
 | 2 | **RNN-AGT: A Recurrent Neural Network Framework for Accelerated Gap-Time Models via Gehan-Type Rank Loss** | *Statistics in Medicine* | ![Submitted](https://img.shields.io/badge/Submitted-green) | 2026 |
 | 1 | **Efficient Estimation in Semiparametric Accelerated Gap-Time Models for Recurrent Event Data** | *The Canadian Journal of Statistics* | ![Submitted](https://img.shields.io/badge/Submitted-green) | 2026 |
 
