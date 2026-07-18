@@ -143,34 +143,7 @@ Outside of work, I stay disciplined through continuous learning, reading, traini
 - Regression Analysis · Linear Models · Multivariate Analysis · Categorical Data Analysis · Nonparametric Methods
 - Stochastic Processes · Time Series Analysis · Computational Bayesian Methods
 - Applied Matrix Theory · Financial Mathematics
-
----
-
-## 💼 Work Experience
-
-### Global Data Science Intern (Research & Development)
-**Reinsurance Group of America** — Jun 2025 – Aug 2025
-- Conducted an extensive literature review and collaborated with a **global team (U.S., U.K., South Africa)** to identify **state-of-the-art methods** for dynamic mortality prediction.
-- Built and deployed **two joint survival models** using **Cox and linear mixed-effects models** in **SQL (Snowflake)** and **R (Domino)**, transforming **static risk assessment into dynamic prediction**.
-- Validated **Bayesian MCMC models** using trace, density, and cumulative mean diagnostics to ensure **convergence, stable parameter estimation, and reliable predictions**.
-- Processed **16M+ records across 400+ fields**, streamlined data pipelines, and reduced computation time from **exponential to linear**, enabling **high-performance deployment**.
-- Maintained **reproducibility and version control** with GitHub Enterprise and authored **deployment documentation**.
-- Presented results to **40+ stakeholders**, translating **Ph.D.-level analytics into actionable insights** across multiple business units, including underwriting, pricing, and valuation.
-
-### Graduate Research Assistant (Statistics & Psychological Science)
-**Missouri S&T** — Jun 2024 – Aug 2024
-- Assessed the **validity of Student Evaluations of Teaching (SET)** using **mixed-effects models** on **500+ course sections**.
-- Calculated the **intraclass correlation coefficient (ICC)** to quantify **instructor-level effects** and developed a **performance-based metric**.
-- Demonstrated **minimal instructor impact**, showing **SET variability reflects perception bias** rather than true performance.
-- Presented findings to **leadership and at a conference**, influencing **promotion and policy decisions**.
-
-### Graduate Teaching Assistant (Calculus & Applied Statistics)
-**Missouri S&T** — Aug 2021 – May 2026
-- Instructed **Calculus for 2 years** (average evaluation 3.5+/4.0), then promoted to **teach Statistics to 500+ engineering students**.
-- Covered **sampling techniques, hypothesis testing, ANOVA, correlation, and linear regression** for statistical analysis.
-- Supervised **10+ capstone projects** from design to data analysis and reporting, achieving **100% on-time completion**.
-- Raised teaching score from **1.53 to 3.82/4.0** using **student-centered pedagogy**, with **100% pass rates**.
-
+  
 ---
 
 ## 💻 Technical Expertise
