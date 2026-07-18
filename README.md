@@ -78,15 +78,11 @@ Outside of work, I stay disciplined through continuous learning, reading, traini
 
 **Thesis:** [Essays on Accelerated Failure Time Models for Recurrent Event Data](https://doi.org/10.13140/RG.2.2.19972.69760)
 
-<details>
-<summary><b>Selected Coursework</b></summary>
-<br>
+**Selected Coursework**
 
 - Regression Analysis · Linear Models · Multivariate Analysis · Categorical Data Analysis · Nonparametric Methods
 - Stochastic Processes · Time Series Analysis · Computational Bayesian Methods
 - Applied Matrix Theory · Financial Mathematics
-
-</details>
 
 ---
 
