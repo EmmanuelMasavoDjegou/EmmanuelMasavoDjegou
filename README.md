@@ -22,7 +22,7 @@
 
 **Statistical Methods for Survival Data Modeling in the Era of AI**
 
-A unified research framework connecting **semiparametric efficiency theory, deep survival models, high-dimensional variable selection & statistical validation** for reliable survival data modeling.
+A unified research framework connecting semiparametric efficiency theory, deep survival models, high-dimensional variable selection & statistical validation for reliable survival data modeling.
 
 [![Explore Framework](https://img.shields.io/badge/Explore%20the%20Framework-6f42c1?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/EmmanuelMasavoDjegou/Emmanuel-Djegou-Research-Framework)
 
