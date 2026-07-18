@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Emmanuel
 ---
 
-## 📊 Research Publication Dashboard
+## 📊 Research Dashboard
 
 <div align="center">
 
@@ -14,11 +14,28 @@
 
 </div>
 
-🔬 **Research Framework:**  
-[Statistical Methods for Survival Data Modeling in the Era of AI](https://github.com/EmmanuelMasavoDjegou/Emmanuel-Djegou-Research-Framework)
-
-📄 **Abstracts, Authors & Manuscripts:**  
-[Research Papers Repository](https://github.com/EmmanuelMasavoDjegou/Research-Papers)
+<table>
+<tr>
+<td width="50%" valign="top">
+### 🔬 Research Framework
+**Statistical Methods for Survival Data Modeling in the Era of AI**
+ 
+The conceptual backbone tying together my work on survival analysis, deep learning, and meta-analysis.
+ 
+[![Explore Framework](https://img.shields.io/badge/Explore%20the%20Framework-6f42c1?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/EmmanuelMasavoDjegou/Emmanuel-Djegou-Research-Framework)
+ 
+</td>
+<td width="50%" valign="top">
+### 📄 Publications Repository
+**Abstracts, Authors & Manuscripts**
+ 
+Full write-ups, co-author lists, and manuscript drafts for every paper in the pipeline above.
+ 
+[![Browse Publications](https://img.shields.io/badge/Browse%20Publications-1e88e5?style=for-the-badge&logo=googlescholar&logoColor=white)](https://github.com/EmmanuelMasavoDjegou/Research-Papers)
+ 
+</td>
+</tr>
+</table>
 
 <table>
 <thead>
