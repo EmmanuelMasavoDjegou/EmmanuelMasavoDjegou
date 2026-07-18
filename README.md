@@ -1,18 +1,72 @@
 # 👋 Hi, I'm Emmanuel
 ---
 
-## 📚 Research Papers
-
+## 📊 Research Dashboard
+ 
+<div align="center">
+![Total Papers](https://img.shields.io/badge/Total%20Papers-4-6f42c1?style=for-the-badge&logo=bookstack&logoColor=white)
+![Q1 Journals](https://img.shields.io/badge/Q1%20Journals-3-2ea44f?style=for-the-badge)
+![Q2 Journals](https://img.shields.io/badge/Q2%20Journals-1-f4a825?style=for-the-badge)
+![Submitted](https://img.shields.io/badge/Submitted-3-1e88e5?style=for-the-badge)
+![In Progress](https://img.shields.io/badge/In%20Progress-1-e67e22?style=for-the-badge)
+![Pipeline Year](https://img.shields.io/badge/Active%20Year-2026-343a40?style=for-the-badge)
+ 
+</div>
 🔬 **Framework:** [Statistical Methods for Survival Data Modeling in the Era of AI](https://github.com/EmmanuelMasavoDjegou/Emmanuel-Djegou-Research-Framework)
-
+ 
 📄 **Abstracts & Authors:** [Full Publication List](https://github.com/EmmanuelMasavoDjegou/Research-Papers)
-
-| # | Title | Target Journal | Quartile | Status | Year |
-|:---:|:---|:---|:---:|:---:| :---:|
-| 4 | **Statistical Validation of Cox-Based Deep Survival Models Using Residual Diagnostics** | *Biostatistics* | Q1 | ![In Progress](https://img.shields.io/badge/In%20Progress-blue) | 2026 |
-| 3 | **Hierarchical Variable Selection for Nonconvex Penalized Cox Models in Individual-Participant-Data Meta-Analysis** | *Lifetime Data Analysis* | Q1 | ![Submitted](https://img.shields.io/badge/Submitted-green) | 2026 |
-| 2 | **RNN-AGT: A Recurrent Neural Network Framework for Accelerated Gap-Time Models via Gehan-Type Rank Loss** | *Statistics in Medicine* | Q1 | ![Submitted](https://img.shields.io/badge/Submitted-green) | 2026 |
-| 1 | **Efficient Estimation in Semiparametric Accelerated Gap-Time Models for Recurrent Event Data** | *The Canadian Journal of Statistics* | Q2 |![Submitted](https://img.shields.io/badge/Submitted-green) | 2026 |
+ 
+<table>
+<thead>
+<tr>
+<th align="center">#</th>
+<th>Title</th>
+<th>Target Journal</th>
+<th align="center">Quartile</th>
+<th align="center">Status</th>
+<th>Progress</th>
+<th align="center">Year</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">4</td>
+<td><b>Statistical Validation of Cox-Based Deep Survival Models Using Residual Diagnostics</b></td>
+<td><i>Biostatistics</i></td>
+<td align="center">🥇 Q1</td>
+<td align="center"><img src="https://img.shields.io/badge/In%20Progress-blue" alt="In Progress"></td>
+<td>🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜ 40%</td>
+<td align="center">2026</td>
+</tr>
+<tr>
+<td align="center">3</td>
+<td><b>Hierarchical Variable Selection for Nonconvex Penalized Cox Models in Individual-Participant-Data Meta-Analysis</b></td>
+<td><i>Lifetime Data Analysis</i></td>
+<td align="center">🥇 Q1</td>
+<td align="center"><img src="https://img.shields.io/badge/Submitted-green" alt="Submitted"></td>
+<td>🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70%</td>
+<td align="center">2026</td>
+</tr>
+<tr>
+<td align="center">2</td>
+<td><b>RNN-AGT: A Recurrent Neural Network Framework for Accelerated Gap-Time Models via Gehan-Type Rank Loss</b></td>
+<td><i>Statistics in Medicine</i></td>
+<td align="center">🥇 Q1</td>
+<td align="center"><img src="https://img.shields.io/badge/Submitted-green" alt="Submitted"></td>
+<td>🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70%</td>
+<td align="center">2026</td>
+</tr>
+<tr>
+<td align="center">1</td>
+<td><b>Efficient Estimation in Semiparametric Accelerated Gap-Time Models for Recurrent Event Data</b></td>
+<td><i>The Canadian Journal of Statistics</i></td>
+<td align="center">🥈 Q2</td>
+<td align="center"><img src="https://img.shields.io/badge/Submitted-green" alt="Submitted"></td>
+<td>🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70%</td>
+<td align="center">2026</td>
+</tr>
+</tbody>
+</table>
 
 ---
 
