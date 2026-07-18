@@ -130,6 +130,22 @@ Outside of work, I stay disciplined through continuous learning, reading, traini
 
 ---
 
+## 🎓 Education
+
+**Ph.D. in Statistics**, Missouri University of Science & Technology (Missouri S&T)
+
+**Completed:** May 2026
+
+**Thesis:** [Essays on Accelerated Failure Time Models for Recurrent Event Data](https://doi.org/10.13140/RG.2.2.19972.69760)
+
+**Selected Coursework**
+
+- Regression Analysis · Linear Models · Multivariate Analysis · Categorical Data Analysis · Nonparametric Methods
+- Stochastic Processes · Time Series Analysis · Computational Bayesian Methods
+- Applied Matrix Theory · Financial Mathematics
+
+---
+
 ## 💼 Work Experience
 
 ### Global Data Science Intern (Research & Development)
@@ -154,22 +170,6 @@ Outside of work, I stay disciplined through continuous learning, reading, traini
 - Covered **sampling techniques, hypothesis testing, ANOVA, correlation, and linear regression** for statistical analysis.
 - Supervised **10+ capstone projects** from design to data analysis and reporting, achieving **100% on-time completion**.
 - Raised teaching score from **1.53 to 3.82/4.0** using **student-centered pedagogy**, with **100% pass rates**.
-
----
-
-## 🎓 Education
-
-**Ph.D. in Statistics**, Missouri University of Science & Technology (Missouri S&T)
-
-**Completed:** May 2026
-
-**Thesis:** [Essays on Accelerated Failure Time Models for Recurrent Event Data](https://doi.org/10.13140/RG.2.2.19972.69760)
-
-**Selected Coursework**
-
-- Regression Analysis · Linear Models · Multivariate Analysis · Categorical Data Analysis · Nonparametric Methods
-- Stochastic Processes · Time Series Analysis · Computational Bayesian Methods
-- Applied Matrix Theory · Financial Mathematics
 
 ---
 
