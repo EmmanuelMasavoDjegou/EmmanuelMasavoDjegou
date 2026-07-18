@@ -22,7 +22,7 @@
 
 **Statistical Methods for Survival Data Modeling in the Era of AI**
 
-A unified research framework connecting **survival analysis, statistical learning, deep neural networks, and modern inference methods** for reliable time-to-event modeling.
+A unified research framework connecting **semiparametric efficiency theory, deep survival models, high-dimensional variable selection & statistical validation** for reliable AI-driven survival data modeling.
 
 [![Explore Framework](https://img.shields.io/badge/Explore%20the%20Framework-6f42c1?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/EmmanuelMasavoDjegou/Emmanuel-Djegou-Research-Framework)
 
@@ -32,9 +32,9 @@ A unified research framework connecting **survival analysis, statistical learnin
 
 ### 📄 Research Publications
 
-**Abstracts, Authors & Manuscripts**
+**Authors & Abstracts**
 
-A curated archive of **research manuscripts, abstracts, author contributions, and methodological developments** across my publication pipeline.
+A curated archive of **abstracts, author contributions, and methodological developments** across my publication pipeline.
 
 [![Browse Publications](https://img.shields.io/badge/Browse%20Publications-1e88e5?style=for-the-badge&logo=googlescholar&logoColor=white)](https://github.com/EmmanuelMasavoDjegou/Research-Papers)
 
