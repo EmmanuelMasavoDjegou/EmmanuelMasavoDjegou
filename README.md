@@ -47,7 +47,7 @@ A curated archive of abstracts, author contributions, and methodological develop
 <tr>
 <th align="center">#</th>
 <th>Manuscript</th>
-<th>Target Journal</th>
+<th>Journal</th>
 <th align="center">Quartile</th>
 <th align="center">Status</th>
 <th align="center">Stage</th>
