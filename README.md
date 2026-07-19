@@ -124,10 +124,6 @@ A curated archive of abstracts, author contributions, and methodological develop
 
 Outside of work, I stay disciplined through continuous learning, reading, training, and playing tennis.
 
-### 📫 Contact
-
-📧 **Email:** emmanueldjegou5@gmail.com
-
 ---
 
 ## 🎓 Education
