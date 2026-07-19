@@ -109,7 +109,7 @@ A curated archive of abstracts, author contributions, and methodological develop
 
 ## 🔹 About Me
 
-### 🚀 Strongest Achievements
+### 🚀 Professional Highlights
 
 - 🎓 Successfully completed a **Ph.D. in Statistics** in 5 years
 - 📊 Built and deployed **two joint survival models** on **16M+ records** at RGA
