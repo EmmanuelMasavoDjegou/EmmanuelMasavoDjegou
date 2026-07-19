@@ -271,6 +271,7 @@ Collett, D. (2024). *Modelling Survival Data in Medical Research* (4th Edition).
 
 <div align="center">
 
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--5527--2301-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-5527-2301)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-EmmanuelDjegou-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-djegou-phd-5652b2254/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-EmmanuelDjegou-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/emmanueldjegou)
 [![YouTube EN](https://img.shields.io/badge/YouTube-English-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@emmanueldjegou44?si=Ov9jhXUDVwSb97p0)
