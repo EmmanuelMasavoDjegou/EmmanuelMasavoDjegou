@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dr. DJEGOU
 
-A researcher who develops artificial intelligence methods using rigorous statistical principles to ensure they are accurate, reliable, interpretable, and scientifically valid.
+*A researcher dedicated to developing statistically principled AI methods for survival data modeling that deliver accurate, reliable, interpretable, and scientifically valid results.*
 
 ---
 
