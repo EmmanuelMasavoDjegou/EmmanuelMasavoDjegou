@@ -128,7 +128,7 @@ Outside of work, I stay disciplined through continuous learning, reading, traini
 
 ## 🎓 Education
 
-**Ph.D. in Statistics**, Missouri University of Science & Technology (Missouri S&T)
+**Ph.D. in Mathematics with Statistics Emphasis**, Missouri University of Science & Technology (Missouri S&T)
 
 **Completed:** May 2026
 
