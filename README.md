@@ -122,11 +122,8 @@ A curated archive of abstracts, author contributions, and methodological develop
 ### 💡 Areas of Interest
 
 - Semiparametric efficiency theory
-
 - Deep survival models
-
 - High-dimensional variable selection
-
 - Statistical validation
 
 ### 🎾 Beyond Work
