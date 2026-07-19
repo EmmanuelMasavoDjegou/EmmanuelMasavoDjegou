@@ -119,12 +119,6 @@ A curated archive of abstracts, author contributions, and methodological develop
 - 👨‍🏫 Taught **calculus** and **applied statistics** to more than **500 engineering students**
 - 📈 Completed **10+ applied data science and machine learning projects** on Kaggle
 
-### 💡 Areas of Interest
-
-- Semiparametric Efficiency Theory
-- Deep Survival Models
-- High-Dimensional Variable Selection
-- Statistical Validation
 
 ### 🎾 Beyond Work
 
