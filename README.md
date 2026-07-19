@@ -107,7 +107,7 @@ A curated archive of abstracts, author contributions, and methodological develop
 
 ---
 
-## 🔹 About Me
+## 🫡 About Me
 
 ### 🚀 Professional Highlights
 
