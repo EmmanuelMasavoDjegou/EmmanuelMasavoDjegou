@@ -114,7 +114,7 @@ A curated archive of abstracts, author contributions, and methodological develop
 - 🎓 Successfully completed a **Ph.D. in Statistics** in 5 years
 - 📊 Built and deployed **two joint survival models** on **16M+ records** at RGA
 - 🤖 Expertise in **deep learning, survival analysis, joint modeling, mixed-effects models, and meta-analysis**
-- 📝 Published researcher and invited conference speaker
+- 📝 Published researcher and invited **conference speaker**
 - 🏆 Recipient of multiple **awards, scholarships, and research grants**
 - 👨‍🏫 Taught **calculus** and **applied statistics** to more than **500 engineering students**
 - 📈 Completed **10+ applied data science and machine learning projects** on Kaggle
