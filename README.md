@@ -1,4 +1,7 @@
 # 👋 Hi, I'm Emmanuel
+
+A researcher who develops artificial intelligence methods using rigorous statistical principles to ensure they are accurate, reliable, interpretable, and scientifically valid.
+
 ---
 
 ## 📊 Research Dashboard
