@@ -128,10 +128,9 @@ Outside of work, I stay disciplined through continuous learning, reading, traini
 
 ## 🎓 Education
 
-**Doctor of Philosophy (Ph.D.) in Mathematics — Statistics Emphasis**  
-Missouri University of Science and Technology (Missouri S&T)
-
-**Completed:** May 2026
+**Ph.D. in Mathematics (Statistics Emphasis)**  
+Missouri University of Science and Technology (Missouri S&T)  
+Completed: May 2026
 
 **Thesis:** [Essays on Accelerated Failure Time Models for Recurrent Event Data](https://doi.org/10.13140/RG.2.2.19972.69760)
 
