@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Emmanuel
+# 👋 Hi, I'm Dr. DJEGOU
 
 A researcher who develops artificial intelligence methods using rigorous statistical principles to ensure they are accurate, reliable, interpretable, and scientifically valid.
 
