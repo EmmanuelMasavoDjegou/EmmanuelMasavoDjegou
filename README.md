@@ -121,8 +121,13 @@ A curated archive of abstracts, author contributions, and methodological develop
 
 ### 💡 Areas of Interest
 
-- AI & Deep Learning
-- Survival Analysis & Risk Modeling
+- Semiparametric efficiency theory
+
+- Deep survival models
+
+- High-dimensional variable selection
+
+- Statistical validation
 
 ### 🎾 Beyond Work
 
