@@ -9,8 +9,8 @@
 
 <div align="center">
 
-![Total Papers](https://img.shields.io/badge/Total%20Papers-4-6f42c1?style=for-the-badge&logo=bookstack&logoColor=white)
-![Q1 Journals](https://img.shields.io/badge/Q1%20Journals-3-2ea44f?style=for-the-badge)
+![Total Papers](https://img.shields.io/badge/Total%20Papers-3-6f42c1?style=for-the-badge&logo=bookstack&logoColor=white)
+![Q1 Journals](https://img.shields.io/badge/Q1%20Journals-2-2ea44f?style=for-the-badge)
 ![Q2 Journals](https://img.shields.io/badge/Q2%20Journals-1-f4a825?style=for-the-badge)
 ![Submitted](https://img.shields.io/badge/Submitted-3-1e88e5?style=for-the-badge)
 ![In Progress](https://img.shields.io/badge/In%20Progress-1-e67e22?style=for-the-badge)
