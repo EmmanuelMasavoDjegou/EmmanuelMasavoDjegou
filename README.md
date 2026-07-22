@@ -12,7 +12,6 @@
 ![Total Papers](https://img.shields.io/badge/Total%20Papers-3-6f42c1?style=for-the-badge&logo=bookstack&logoColor=white)
 ![Q1 Journals](https://img.shields.io/badge/Q1%20Journals-2-2ea44f?style=for-the-badge)
 ![Q2 Journals](https://img.shields.io/badge/Q2%20Journals-1-f4a825?style=for-the-badge)
-![Submitted](https://img.shields.io/badge/Submitted-3-1e88e5?style=for-the-badge)
 ![Conference Talks](https://img.shields.io/badge/Conference%20Talks-3-8e44ad?style=for-the-badge&logo=microphone&logoColor=white)
 ![Active Year](https://img.shields.io/badge/Active%20Year-2026-343a40?style=for-the-badge)
 
