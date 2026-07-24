@@ -75,7 +75,7 @@ A curated archive of abstracts, author contributions, and methodological develop
 <tr>
 <td align="center"><b>3</b></td>
 <td><b>Hierarchical Variable Selection for Nonconvex Penalized Cox Models in Individual-Participant-Data Meta-Analysis</b></td>
-<td><i>Lifetime Data Analysis</i></td>
+<td><i>Computational Statistics & Data Analysis</i></td>
 <td align="center">🥇 Q1</td>
 <td align="center"><img src="https://img.shields.io/badge/Submitted-green" alt="Submitted"></td>
 <td align="center">⏳ Under Review</td>
