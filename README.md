@@ -64,7 +64,7 @@ A curated archive of abstracts, author contributions, and methodological develop
 <tr>
   <td align="center"><b>4</b></td>
   <td><b>Residual Diagnostics for Cox-Based Deep Survival Models</b></td>
-  <td><i>Computational Statistics & Data Analysis</i></td>
+  <td><i>Statistics in Medicine</i></td>
   <td align="center">🥇 Q1</td>
   <td align="center"><img src="https://img.shields.io/badge/In%20Progress-blue" alt="In Progress"></td>
   <td align="center">📝 Drafting</td>
