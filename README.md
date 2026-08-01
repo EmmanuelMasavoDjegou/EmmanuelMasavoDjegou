@@ -131,7 +131,7 @@ Outside of work, I stay disciplined through continuous learning, reading, traini
 Missouri University of Science and Technology (Missouri S&T)  
 Completed: May 2026
 
-**Thesis:** [Essays on Accelerated Failure Time Models for Recurrent Event Data](https://doi.org/10.13140/RG.2.2.19972.69760)
+**Thesis:** [Essays on Accelerated Failure Time Models for Recurrent Event Data](https://scholarsmine.mst.edu/doctoral_dissertations/3458/)
 
 **Selected Coursework**
 
