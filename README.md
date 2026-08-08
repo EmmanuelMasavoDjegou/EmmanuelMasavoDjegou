@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dr. DJEGOU
+# 👋 Hi, I'm Emmanuel
 
 *A researcher dedicated to developing statistically principled AI methods for survival data modeling that deliver accurate, reliable, interpretable, and scientifically valid results.*
 
