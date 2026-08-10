@@ -125,6 +125,18 @@ Outside of work, I stay disciplined through continuous learning, reading, traini
 
 ---
 
+## 🏆 Awards, Scholarships & Grants
+
+- 🥇 **Louis Grimm Overall Excellence Fellowship Award**, Apr 2026
+- 🎥 **CodeSignal Feature** (Video & Blog), Jul 2025
+- 🎖️ **Paul W. Eloe Research Award** (Honorable Mention), Apr 2025
+- ✈️ **Graduate Education & CASE Travel Grant**, Mar 2025
+- ✈️ **AMS Travel Grant** (Invited Speaker), Mar 2025
+- ✈️ **NSF Travel Grant** (Poster Presentation), Nov 2024
+- 🎓 **PGSM Master's Scholarship**, Sorbonne University, France, Feb 2021
+
+---
+
 ## 🎓 Education
 
 **Ph.D. in Mathematics (Statistics Emphasis)**  
@@ -251,18 +263,6 @@ A comprehensive collection of graduate-level lecture slides on survival analysis
 
 ### 📖 Primary Reference
 Collett, D. (2024). *Modelling Survival Data in Medical Research* (4th Edition). CRC Press.
-
----
-
-## 🏆 Awards, Scholarships & Grants
-
-- 🥇 **Louis Grimm Overall Excellence Fellowship Award**, Apr 2026
-- 🎥 **CodeSignal Feature** (Video & Blog), Jul 2025
-- 🎖️ **Paul W. Eloe Research Award** (Honorable Mention), Apr 2025
-- ✈️ **Graduate Education & CASE Travel Grant**, Mar 2025
-- ✈️ **AMS Travel Grant** (Invited Speaker), Mar 2025
-- ✈️ **NSF Travel Grant** (Poster Presentation), Nov 2024
-- 🎓 **PGSM Master's Scholarship**, Sorbonne University, France, Feb 2021
 
 ---
 
