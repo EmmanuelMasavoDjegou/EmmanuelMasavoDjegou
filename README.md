@@ -87,7 +87,7 @@ A curated archive of abstracts, author contributions, and methodological develop
 <td><i>Statistics in Medicine</i></td>
 <td align="center">🥇 Q1</td>
 <td align="center"><img src="https://img.shields.io/badge/Submitted-green" alt="Submitted"></td>
-<td align="center">⏳ Under Review</td>
+<td align="center">🔄 Under Revision</td>
 <td align="center">2026</td>
 </tr>
 
