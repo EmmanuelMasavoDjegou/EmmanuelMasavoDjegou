@@ -13,7 +13,6 @@
 ![Q1 Journals](https://img.shields.io/badge/Q1%20Journals-2-2ea44f?style=for-the-badge)
 ![Q2 Journals](https://img.shields.io/badge/Q2%20Journals-1-f4a825?style=for-the-badge)
 ![In Progress](https://img.shields.io/badge/In%20Progress-1-0ea5e9?style=for-the-badge)
-![Conference Talks](https://img.shields.io/badge/Conference%20Talks-3-8e44ad?style=for-the-badge&logo=microphone&logoColor=white)
 ![Active Year](https://img.shields.io/badge/Active%20Year-2026-343a40?style=for-the-badge)
 
 </div>
