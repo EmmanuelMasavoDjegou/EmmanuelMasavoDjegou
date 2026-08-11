@@ -2,16 +2,16 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6f42c1,100:1e88e5&height=230&section=header&text=Emmanuel%20Djegou&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Statistically%20Principled%20AI%20for%20Survival%20Data%20Modeling&descAlignY=58&descSize=18" width="100%"/>
 
-<div align="center">
-  
 <br/>
+
 <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%91%8B+Hi%2C+I'm+Emmanuel&font=Fira+Code&center=true&width=800&height=45&color=6f42c1&vCenter=true&size=20&pause=1200&repeat=true"/>
-</div>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com/?lines=A+researcher+dedicated+to+developing+statistically+principled+AI+methods;for+survival+data+modeling+that+deliver+accurate%2C+reliable%2C;interpretable%2C+and+scientifically+valid+results.&font=Fira+Code&center=true&width=1000&height=80&color=6f42c1&vCenter=true&size=18&pause=1200&repeat=true"/>
 
 </div>
 
-
-*A researcher dedicated to developing statistically principled AI methods for survival data modeling that deliver accurate, reliable, interpretable, and scientifically valid results.*
 
 > 🧠 **Fun fact:** One brain. Too many ideas. I've considered cloning myself — but every clone would probably start a new research project instead of finishing the old ones.
 
