@@ -249,8 +249,9 @@ Goodfellow, I., Bengio, Y., & Courville, A. (2016). *Deep Learning*. MIT Press.
 A comprehensive collection of graduate-level lecture slides on survival analysis and modern risk modeling techniques for medical and clinical research, accompanied by practical R examples.
 
 #### 📚 Course Structure
+- **7 Chapters**
 - **3 Modules**
-- **Hands-on R Examples**
+  
 
 #### 📋 Topics Covered
 - Survival Analysis Fundamentals
