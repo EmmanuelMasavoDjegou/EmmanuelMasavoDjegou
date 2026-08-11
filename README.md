@@ -2,9 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6f42c1,100:1e88e5&height=230&section=header&text=Emmanuel%20Djegou&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Statistically%20Principled%20AI%20for%20Survival%20Data%20Modeling&descAlignY=58&descSize=18" width="100%"/>
 
+<a href="https://orcid.org/0009-0007-5527-2301"><img src="https://img.shields.io/badge/ORCID-0009--0007--5527--2301-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/emmanuel-djegou-phd-5652b2254/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.kaggle.com/emmanueldjegou"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+<a href="mailto:emmanueldjegou5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
 <br/>
 
-<img src="[https://readme-typing-svg.demolab.com/?lines=🎓+Ph.D.+in+Statistics+%7C+🤖+AI+%26+Deep+Learning+%7C+📉+Survival+Analysis+%26+Risk+Modeling+%7C+🏫+Missouri+S%26T+%2726&font=Fira+Code&center=true&width=700&height=45&color=6f42c1&vCenter=true&size=22&pause=1200](https://readme-typing-svg.demolab.com/?lines=🎓+Ph.D.+in+Statistics+%7C+🤖+AI+%26+Deep+Learning+%7C+📉+Survival+Analysis+%26+Risk+Modeling+%7C+🏫+Missouri+S%26T+%2726&font=Fira+Code&center=true&width=700&height=45&color=6f42c1&vCenter=true&size=22&pause=1200)"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%8E%93+Ph.D.+in+Statistics+%7C+%F0%9F%A4%96+AI+%26+Deep+Learning+%7C+%F0%9F%93%89+Survival+Analysis+%26+Risk+Modeling+%7C+%F0%9F%8F%AB+Missouri+S%26T+%2726&font=Fira+Code&center=true&width=800&height=45&color=6f42c1&vCenter=true&size=20&pause=1200&repeat=true"/>
 
 <img src="https://komarev.com/ghpvc/?username=EmmanuelMasavoDjegou&label=Profile%20Views&color=6f42c1&style=for-the-badge"/>
 
