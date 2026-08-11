@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=🎓+Ph.D.+in+Statistics+%7C+🤖+AI+%26+Deep+Learning+%7C+📉+Survival+Analysis+%26+Risk+Modeling+%7C+🏫+Missouri+S%26T+%2726&font=Fira+Code&center=true&width=1000&height=45&color=6f42c1&vCenter=true&size=22&pause=1200"/>
+<img src="[https://readme-typing-svg.demolab.com/?lines=🎓+Ph.D.+in+Statistics+%7C+🤖+AI+%26+Deep+Learning+%7C+📉+Survival+Analysis+%26+Risk+Modeling+%7C+🏫+Missouri+S%26T+%2726&font=Fira+Code&center=true&width=700&height=45&color=6f42c1&vCenter=true&size=22&pause=1200](https://readme-typing-svg.demolab.com/?lines=🎓+Ph.D.+in+Statistics+%7C+🤖+AI+%26+Deep+Learning+%7C+📉+Survival+Analysis+%26+Risk+Modeling+%7C+🏫+Missouri+S%26T+%2726&font=Fira+Code&center=true&width=700&height=45&color=6f42c1&vCenter=true&size=22&pause=1200)"/>
 
 <img src="https://komarev.com/ghpvc/?username=EmmanuelMasavoDjegou&label=Profile%20Views&color=6f42c1&style=for-the-badge"/>
 
