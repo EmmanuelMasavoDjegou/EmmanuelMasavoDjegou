@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6f42c1,100:1e88e5&height=230&section=header&text=Emmanuel%20Djegou&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Statistically%20Principled%20AI%20for%20Survival%20Data%20Modeling&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:b91c1c&height=230&section=header&text=Statistically%20Principled%20AI%20for%20Survival%20Data%20Modeling&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="100%"/>
 
 <br/>
 
@@ -276,9 +276,11 @@ Collett, D. (2024). *Modelling Survival Data in Medical Research* (4th Edition).
 
 ---
 
-## 💬 Visit My Websites
+
 
 <div align="center">
+
+### 💬 Visit My Websites
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0007--5527--2301-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-5527-2301)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-EmmanuelDjegou-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-djegou-phd-5652b2254/)
@@ -288,9 +290,12 @@ Collett, D. (2024). *Modelling Survival Data in Medical Research* (4th Edition).
 [![Instagram](https://img.shields.io/badge/Instagram-EmmanuelDjegou-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emmanuel.djegou.official)
 [![Email](https://img.shields.io/badge/Email-emmanueldjegou5%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emmanueldjegou5@gmail.com)
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:b91c1c,100:1e3a8a&height=120&section=footer" width="100%"/>
+
 </div>
 
 <!---
 EmmanuelMasavoDjegou/EmmanuelMasavoDjegou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
