@@ -11,6 +11,7 @@
 </div>
 
 
+*A researcher dedicated to developing statistically principled AI methods for survival data modeling that deliver accurate, reliable, interpretable, and scientifically valid results.*
 
 > 🧠 **Fun fact:** One brain. Too many ideas. I've considered cloning myself — but every clone would probably start a new research project instead of finishing the old ones.
 
