@@ -146,6 +146,7 @@ Outside of work, I stay disciplined through continuous learning, reading, traini
 - ✈️ **NSF Travel Grant** (Poster Presentation), Nov 2024
 - 🎓 **PGSM Master's Scholarship**, Sorbonne University, France, Feb 2021
 
+---
 
 ## 🎓 Education
 
@@ -209,8 +210,7 @@ Completed: May 2026
 
 `🔁 Deep Learning:` LSTMs · GRUs
 
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6f42c1,100:1e88e5&height=4&width=100%"/>
+---
 
 ## 📈 GitHub Activity
 
@@ -232,6 +232,8 @@ Completed: May 2026
 # 📖 Educational Courses
 
 I have developed comprehensive graduate-level lecture materials covering advanced topics in machine learning, deep learning, and statistical modeling.
+
+---
 
 ## 🧠 [Foundations of Deep Learning](https://github.com/EmmanuelMasavoDjegou/Foundations-of-Deep-Learning)
 
@@ -261,6 +263,7 @@ A comprehensive collection of graduate-level lecture slides covering the theoret
 ### 📖 Primary Reference
 Goodfellow, I., Bengio, Y., & Courville, A. (2016). *Deep Learning*. MIT Press.
 
+---
 
 ## 🩺 [Risk Modeling for Medical Applications](https://github.com/EmmanuelMasavoDjegou/Risk-Modeling-for-Medical-Applications)
 
