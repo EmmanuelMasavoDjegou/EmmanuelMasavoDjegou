@@ -8,8 +8,6 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=A+researcher+dedicated+to+developing+statistically+principled+AI+methods;for+survival+data+modeling+that+deliver+accurate%2C+reliable%2C;interpretable%2C+and+scientifically+valid+results.&font=Fira+Code&center=true&width=1000&height=80&color=6f42c1&vCenter=true&size=18&pause=1200&repeat=true"/>
-
 </div>
 
 
