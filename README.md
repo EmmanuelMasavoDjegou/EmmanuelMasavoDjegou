@@ -11,13 +11,11 @@
 
 <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%8E%93+Ph.D.+in+Statistics+%7C+%F0%9F%A4%96+AI+%26+Deep+Learning+%7C+%F0%9F%93%89+Survival+Analysis+%26+Risk+Modeling+%7C+%F0%9F%8F%AB+Missouri+S%26T+%2726&font=Fira+Code&center=true&width=800&height=45&color=6f42c1&vCenter=true&size=20&pause=1200&repeat=true"/>
 
-<img src="https://komarev.com/ghpvc/?username=EmmanuelMasavoDjegou&label=Profile%20Views&color=6f42c1&style=for-the-badge"/>
-
 </div>
 
 > 🧠 **Fun fact:** One brain. Too many ideas. I've considered cloning myself — but every clone would probably start a new research project instead of finishing the old ones.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6f42c1,100:1e88e5&height=4&width=100%"/>
+---
 
 ## 📊 Research Dashboard
 
@@ -39,11 +37,12 @@
 
 **Statistics for Survival Data Modeling in the Era of AI**
 
-A unified research framework connecting semiparametric efficiency theory, deep survival models, high-dimensional variable selection, and statistical validation for reliable survival data modeling.
+A unified research framework connecting semiparametric efficiency theory, deep survival models, high-dimensional variable selection and statistical validation for reliable survival data modeling.
 
 [![Explore Framework](https://img.shields.io/badge/Explore%20the%20Framework-6f42c1?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/EmmanuelMasavoDjegou/Emmanuel-Djegou-Research-Framework)
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 📄 Research Publications
@@ -70,16 +69,17 @@ A curated archive of abstracts, author contributions, and methodological develop
 <th align="center">Year</th>
 </tr>
 </thead>
+
 <tbody>
 
 <tr>
-<td align="center"><b>4</b></td>
-<td><b>Residual Diagnostics for Model Checking in Cox-Based Deep Survival Models</b></td>
-<td><i>Journal of Machine Learning Research</i></td>
-<td align="center">🥇 Q1</td>
-<td align="center"><img src="https://img.shields.io/badge/In%20Progress-blue" alt="In Progress"></td>
-<td align="center">📝 Drafting</td>
-<td align="center">2026</td>
+  <td align="center"><b>4</b></td>
+  <td><b>Residual Diagnostics for Model Checking in Cox-Based Deep Survival Models</b></td>
+  <td><i>Journal of Machine Learning Research</i></td>
+  <td align="center">🥇 Q1</td>
+  <td align="center"><img src="https://img.shields.io/badge/In%20Progress-blue" alt="In Progress"></td>
+  <td align="center">📝 Drafting</td>
+  <td align="center">2026</td>
 </tr>
 
 <tr>
@@ -115,13 +115,9 @@ A curated archive of abstracts, author contributions, and methodological develop
 </tbody>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6f42c1,100:1e88e5&height=4&width=100%"/>
+---
 
 ## 🫡 About Me
-
-<table>
-<tr>
-<td width="60%" valign="top">
 
 ### 🚀 Professional Highlights
 
@@ -133,78 +129,43 @@ A curated archive of abstracts, author contributions, and methodological develop
 - 👨‍🏫 Taught **calculus** and **applied statistics** to more than **500 engineering students**
 - 📈 Completed **10+ applied data science and machine learning projects** on Kaggle
 
+
 ### 🎾 Beyond Work
 
 Outside of work, I stay disciplined through continuous learning, reading, training, and playing tennis.
 
-</td>
-<td width="40%" valign="top" align="center">
-
-```python
-class Researcher:
-    def __init__(self):
-        self.name = "Emmanuel Djegou"
-        self.field = "Survival Analysis + AI"
-        self.degree = "Ph.D. Statistics, 2026"
-        self.focus = [
-            "Semiparametric efficiency",
-            "Deep survival models",
-            "Variable selection",
-            "Statistical validation"
-        ]
-
-    def current_status(self):
-        return "Turning data into rigor 📐"
-```
-
-</td>
-</tr>
-</table>
+---
 
 ## 🏆 Awards, Scholarships & Grants
 
-<div align="center">
+- 🥇 **Louis Grimm Overall Excellence Fellowship Award**, Apr 2026
+- 🎥 **CodeSignal Feature** (Video & Blog), Jul 2025
+- 🎖️ **Paul W. Eloe Research Award** (Honorable Mention), Apr 2025
+- ✈️ **Graduate Education & CASE Travel Grant**, Mar 2025
+- ✈️ **AMS Travel Grant** (Invited Speaker), Mar 2025
+- ✈️ **NSF Travel Grant** (Poster Presentation), Nov 2024
+- 🎓 **PGSM Master's Scholarship**, Sorbonne University, France, Feb 2021
 
-| Award | Date |
-|---|:---:|
-| 🥇 **Louis Grimm Overall Excellence Fellowship Award** | Apr 2026 |
-| 🎥 **CodeSignal Feature** (Video & Blog) | Jul 2025 |
-| 🎖️ **Paul W. Eloe Research Award** (Honorable Mention) | Apr 2025 |
-| ✈️ **Graduate Education & CASE Travel Grant** | Mar 2025 |
-| ✈️ **AMS Travel Grant** (Invited Speaker) | Mar 2025 |
-| ✈️ **NSF Travel Grant** (Poster Presentation) | Nov 2024 |
-| 🎓 **PGSM Master's Scholarship**, Sorbonne University, France | Feb 2021 |
-
-</div>
 
 ## 🎓 Education
 
-**Ph.D. in Mathematics (Statistics Emphasis)**
-Missouri University of Science and Technology (Missouri S&T) · Completed: May 2026
+**Ph.D. in Mathematics (Statistics Emphasis)**  
+Missouri University of Science and Technology (Missouri S&T)  
+Completed: May 2026
 
 **Thesis:** [Essays on Accelerated Failure Time Models for Recurrent Event Data](https://scholarsmine.mst.edu/doctoral_dissertations/3458/)
 
-<details>
-<summary><b>📚 Selected Coursework (click to expand)</b></summary>
-<br/>
+**Selected Coursework**
 
 - Regression Analysis · Linear Models · Multivariate Analysis · Categorical Data Analysis · Nonparametric Methods
 - Stochastic Processes · Time Series Analysis · Computational Bayesian Methods
 - Applied Matrix Theory · Financial Mathematics
-
-</details>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6f42c1,100:1e88e5&height=4&width=100%"/>
+  
+---
 
 ## 💻 Technical Expertise
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,r,sql,matlab,tensorflow,pytorch,scikit_learn,git,linux,tableau&theme=dark" />
-
-</div>
-
-**Languages & Tools**
+**Languages & Tools:**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
@@ -212,14 +173,14 @@ Missouri University of Science and Technology (Missouri S&T) · Completed: May 2
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 ![JMP](https://img.shields.io/badge/JMP-004C97?style=flat-square)
 
-**Big Data & Platforms**
+**Big Data & Platforms:**
 
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 ![Git](https://img.shields.io/badge/Git%2FGitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Domino](https://img.shields.io/badge/Domino%20Data%20Lab-000000?style=flat-square)
 
-**ML / AI**
+**ML / AI:**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -228,7 +189,7 @@ Missouri University of Science and Technology (Missouri S&T) · Completed: May 2
 ![PyMC](https://img.shields.io/badge/PyMC-blue?style=flat-square)
 ![lifelines](https://img.shields.io/badge/lifelines-teal?style=flat-square)
 
-**Data Visualization**
+**Data Visualization:**
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4c72b0?style=flat-square)
@@ -236,13 +197,18 @@ Missouri University of Science and Technology (Missouri S&T) · Completed: May 2
 ![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=flat-square)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
-**Modeling Toolkit**
+**Modeling Toolkit:**
 
 `📐 Classical Statistical Models:` GLMs · GAMs
-`⏳ Survival Models:` Cox Models · AFT Models
+
+`⏳ Survial Models:` Cox Models · AFT Models
+
 `🌳 Tree & Ensemble Models:` Decision Trees · Random Forest · XGBoost
+
 `📏 Kernel & Distance:` SVM · KNN
+
 `🔁 Deep Learning:` LSTMs · GRUs
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6f42c1,100:1e88e5&height=4&width=100%"/>
 
@@ -263,48 +229,72 @@ Missouri University of Science and Technology (Missouri S&T) · Completed: May 2
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6f42c1,100:1e88e5&height=4&width=100%"/>
 
-## 📖 Educational Courses
+# 📖 Educational Courses
 
 I have developed comprehensive graduate-level lecture materials covering advanced topics in machine learning, deep learning, and statistical modeling.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## 🧠 [Foundations of Deep Learning](https://github.com/EmmanuelMasavoDjegou/Foundations-of-Deep-Learning)
 
-### 🧠 [Foundations of Deep Learning](https://github.com/EmmanuelMasavoDjegou/Foundations-of-Deep-Learning)
+A comprehensive collection of graduate-level lecture slides covering the theoretical foundations and modern architectures of deep learning.
 
-Graduate-level lecture slides covering the theoretical foundations and modern architectures of deep learning.
+### 📚 Course Structure
+- **4 Chapters**
+- **10 Modules**
 
-**📚 Structure:** 4 Chapters · 10 Modules
+### 📋 Topics Covered
+- Machine Learning Foundations
+- Neural Networks and Backpropagation
+- Regularization Techniques
+- Optimization Algorithms
+- Convolutional Neural Networks (CNNs)
+- Recurrent Neural Networks (RNNs, LSTMs, and GRUs)
+- Attention Mechanisms
+- Transformers
+- Large Language Models (LLMs)
 
-**📋 Topics:** ML Foundations · Neural Networks & Backprop · Regularization · Optimization · CNNs · RNNs/LSTMs/GRUs · Attention · Transformers · LLMs
+### 👥 Intended Audience
+- Graduate Students
+- Data Scientists
+- Machine Learning Engineers
+- AI Researchers
 
-**👥 Audience:** Graduate Students · Data Scientists · ML Engineers · AI Researchers
+### 📖 Primary Reference
+Goodfellow, I., Bengio, Y., & Courville, A. (2016). *Deep Learning*. MIT Press.
 
-**📖 Reference:** Goodfellow, Bengio & Courville (2016). *Deep Learning*. MIT Press.
 
-</td>
-<td width="50%" valign="top">
+## 🩺 [Risk Modeling for Medical Applications](https://github.com/EmmanuelMasavoDjegou/Risk-Modeling-for-Medical-Applications)
 
-### 🩺 [Risk Modeling for Medical Applications](https://github.com/EmmanuelMasavoDjegou/Risk-Modeling-for-Medical-Applications)
+A comprehensive collection of graduate-level lecture slides on survival analysis and modern risk modeling techniques for medical and clinical research, accompanied by practical R examples.
 
-Graduate-level lecture slides on survival analysis and modern risk modeling for medical and clinical research, with hands-on R examples.
+### 📚 Course Structure
+- **3 Modules**
+- **Hands-on R Examples**
 
-**📚 Structure:** 3 Modules · Hands-on R Examples
+### 📋 Topics Covered
+- Survival Analysis Fundamentals
+- Censoring Mechanisms
+- Kaplan-Meier Estimation
+- Nelson-Aalen Estimation
+- Cox Proportional Hazards Model
+- Hazard Ratios and Model Building
+- Parametric Survival Models (Exponential, Weibull, Log-Normal, etc.)
+- Accelerated Failure Time (AFT) Models
+- Model Validation and Diagnostics
+- Risk-Adjusted Survival Curves
 
-**📋 Topics:** Survival Fundamentals · Censoring · Kaplan-Meier · Nelson-Aalen · Cox PH · Hazard Ratios · Parametric Models (Exponential, Weibull, Log-Normal) · AFT Models · Validation & Diagnostics · Risk-Adjusted Survival Curves
+### 👥 Intended Audience
+- Graduate Students
+- Biostatisticians
+- Medical Researchers
+- Epidemiologists
+- Clinical Researchers
 
-**👥 Audience:** Graduate Students · Biostatisticians · Medical Researchers · Epidemiologists
+### 📖 Primary Reference
+Collett, D. (2024). *Modelling Survival Data in Medical Research* (4th Edition). CRC Press.
 
-**📖 Reference:** Collett, D. (2024). *Modelling Survival Data in Medical Research* (4th Ed.). CRC Press.
+---
 
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6f42c1,100:1e88e5&height=4&width=100%"/>
-
-## 💬 Let's Connect
+## 💬 Visit My Websites
 
 <div align="center">
 
@@ -318,4 +308,9 @@ Graduate-level lecture slides on survival analysis and modern risk modeling for 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e88e5,100:6f42c1&height=120&section=footer"/>
+---
+
+<!---
+EmmanuelMasavoDjegou/EmmanuelMasavoDjegou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
