@@ -2,11 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6f42c1,100:1e88e5&height=230&section=header&text=Emmanuel%20Djegou&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Statistically%20Principled%20AI%20for%20Survival%20Data%20Modeling&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://orcid.org/0009-0007-5527-2301"><img src="https://img.shields.io/badge/ORCID-0009--0007--5527--2301-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/emmanuel-djegou-phd-5652b2254/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.kaggle.com/emmanueldjegou"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-<a href="mailto:emmanueldjegou5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Ph.D.+in+Statistics+%E2%80%A2+Missouri+S%26T;Survival+Analysis+%E2%80%A2+Deep+Learning+%E2%80%A2+Recurrent+Events;Building+16M%2B-record+joint+survival+models+at+RGA;4+Papers+%E2%80%A2+2+Q1+Journals+%E2%80%A2+1+In+Progress&font=Fira+Code&center=true&width=700&height=45&color=6f42c1&vCenter=true&size=22&pause=1200"/>
