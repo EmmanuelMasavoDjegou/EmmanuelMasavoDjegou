@@ -17,6 +17,33 @@
 
 ---
 
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=EmmanuelMasavoDjegou&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=EmmanuelMasavoDjegou&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelMasavoDjegou&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EmmanuelMasavoDjegou&theme=tokyo-night&hide_border=true" width="95%"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6f42c1,100:1e88e5&height=4&width=100%"/>
+
+# 📖 Educational Courses
+
+I have developed comprehensive graduate-level lecture materials covering advanced topics in machine learning, deep learning, and statistical modeling.
+
+---
+
+
+
+---
+
 ## 📊 Research Dashboard
 
 <div align="center">
@@ -212,28 +239,6 @@ Completed: May 2026
 
 ---
 
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=EmmanuelMasavoDjegou&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EmmanuelMasavoDjegou&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelMasavoDjegou&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EmmanuelMasavoDjegou&theme=tokyo-night&hide_border=true" width="95%"/>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6f42c1,100:1e88e5&height=4&width=100%"/>
-
-# 📖 Educational Courses
-
-I have developed comprehensive graduate-level lecture materials covering advanced topics in machine learning, deep learning, and statistical modeling.
-
----
 
 ## 🧠 [Foundations of Deep Learning](https://github.com/EmmanuelMasavoDjegou/Foundations-of-Deep-Learning)
 
