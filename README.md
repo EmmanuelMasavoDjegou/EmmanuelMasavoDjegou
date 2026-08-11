@@ -8,25 +8,11 @@
 <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%91%8B+Hi%2C+I'm+Emmanuel&font=Fira+Code&center=true&width=800&height=45&color=6f42c1&vCenter=true&size=20&pause=1200&repeat=true"/>
 </div>
 
-
-> 🧠 **Fun fact:** One brain. Too many ideas. I've considered cloning myself — but every clone would probably start a new research project instead of finishing the old ones.
-
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=EmmanuelMasavoDjegou&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EmmanuelMasavoDjegou&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelMasavoDjegou&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EmmanuelMasavoDjegou&theme=tokyo-night&hide_border=true" width="95%"/>
-
 </div>
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+
+> 🧠 **Fun fact:** One brain. Too many ideas. I've considered cloning myself — but every clone would probably start a new research project instead of finishing the old ones.
 
 ---
 
