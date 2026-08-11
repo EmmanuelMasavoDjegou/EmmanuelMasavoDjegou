@@ -34,13 +34,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6f42c1,100:1e88e5&height=4&width=100%"/>
 
-# 📖 Educational Courses
-
-I have developed comprehensive graduate-level lecture materials covering advanced topics in machine learning, deep learning, and statistical modeling.
-
----
-
-
 
 ---
 
@@ -239,16 +232,19 @@ Completed: May 2026
 
 ---
 
+## 📖 Educational Courses
 
-## 🧠 [Foundations of Deep Learning](https://github.com/EmmanuelMasavoDjegou/Foundations-of-Deep-Learning)
+I have developed comprehensive graduate-level lecture materials covering advanced topics in machine learning, deep learning, and statistical modeling.
+
+### 🧠 [Foundations of Deep Learning](https://github.com/EmmanuelMasavoDjegou/Foundations-of-Deep-Learning)
 
 A comprehensive collection of graduate-level lecture slides covering the theoretical foundations and modern architectures of deep learning.
 
-### 📚 Course Structure
+#### 📚 Course Structure
 - **4 Chapters**
 - **10 Modules**
 
-### 📋 Topics Covered
+#### 📋 Topics Covered
 - Machine Learning Foundations
 - Neural Networks and Backpropagation
 - Regularization Techniques
@@ -259,26 +255,26 @@ A comprehensive collection of graduate-level lecture slides covering the theoret
 - Transformers
 - Large Language Models (LLMs)
 
-### 👥 Intended Audience
+#### 👥 Intended Audience
 - Graduate Students
 - Data Scientists
 - Machine Learning Engineers
 - AI Researchers
 
-### 📖 Primary Reference
+#### 📖 Primary Reference
 Goodfellow, I., Bengio, Y., & Courville, A. (2016). *Deep Learning*. MIT Press.
 
 ---
 
-## 🩺 [Risk Modeling for Medical Applications](https://github.com/EmmanuelMasavoDjegou/Risk-Modeling-for-Medical-Applications)
+### 🩺 [Risk Modeling for Medical Applications](https://github.com/EmmanuelMasavoDjegou/Risk-Modeling-for-Medical-Applications)
 
 A comprehensive collection of graduate-level lecture slides on survival analysis and modern risk modeling techniques for medical and clinical research, accompanied by practical R examples.
 
-### 📚 Course Structure
+#### 📚 Course Structure
 - **3 Modules**
 - **Hands-on R Examples**
 
-### 📋 Topics Covered
+#### 📋 Topics Covered
 - Survival Analysis Fundamentals
 - Censoring Mechanisms
 - Kaplan-Meier Estimation
@@ -290,14 +286,14 @@ A comprehensive collection of graduate-level lecture slides on survival analysis
 - Model Validation and Diagnostics
 - Risk-Adjusted Survival Curves
 
-### 👥 Intended Audience
+#### 👥 Intended Audience
 - Graduate Students
 - Biostatisticians
 - Medical Researchers
 - Epidemiologists
 - Clinical Researchers
 
-### 📖 Primary Reference
+#### 📖 Primary Reference
 Collett, D. (2024). *Modelling Survival Data in Medical Research* (4th Edition). CRC Press.
 
 ---
