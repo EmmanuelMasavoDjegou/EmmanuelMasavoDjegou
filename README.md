@@ -32,9 +32,6 @@
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6f42c1,100:1e88e5&height=4&width=100%"/>
-
-
 ---
 
 ## 📊 Research Dashboard
