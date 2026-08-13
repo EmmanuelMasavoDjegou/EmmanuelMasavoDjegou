@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:b91c1c&height=230&section=header&text=Statistics%20for%20Survival%20Data%20Modeling%20in%20the%20Era%20of%20AI&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:b91c1c&height=230&section=header&text=Survival%20Data%20Modeling%20in%20the%20Era%20of%20AI&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="100%"/>
 
 <br/>
 
