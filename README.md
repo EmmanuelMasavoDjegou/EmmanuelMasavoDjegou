@@ -36,7 +36,7 @@
 
 ### 🔬 Research Framework
 
-**Statistics for Survival Data Modeling in the Era of AI**
+**Survival Data Modeling in the Era of AI**
 
 A unified research framework connecting semiparametric efficiency theory, deep survival models, high-dimensional variable selection and statistical validation for reliable survival data modeling.
 
