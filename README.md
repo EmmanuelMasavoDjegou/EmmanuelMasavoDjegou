@@ -213,6 +213,15 @@ Completed: May 2026
 
 ---
 
+## 💻 Language Usage
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelMasavoDjegou&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages"/>
+
+</div>
+
+
 ## 📖 Educational Courses
 
 I have developed comprehensive graduate-level lecture materials covering advanced topics in machine learning, deep learning, and statistical modeling.
