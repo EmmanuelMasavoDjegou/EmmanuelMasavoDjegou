@@ -73,10 +73,31 @@ A curated archive of abstracts, author contributions, and methodological develop
 
 <tbody>
 
+
+<tr>
+  <td align="center"><b>4</b></td>
+  <td><b>Signal-Retaining Bootstrap Change-Point Inference: Selected-Dimensional Validity, Power, and Localization.</b></td>
+  <td><i>TBD</i></td>
+  <td align="center">🥇 Q1</td>
+  <td align="center"><img src="https://img.shields.io/badge/In%20Progress-blue" alt="In Progress"></td>
+  <td align="center">📝 Drafting</td>
+  <td align="center">2026</td>
+</tr>
+
+<tr>
+  <td align="center"><b>4</b></td>
+  <td><b>A General Class of Semiparametric Virtual Age Models with Time-Dependent Covariates</b></td>
+  <td><i>TBD</i></td>
+  <td align="center">🥇 Q1</td>
+  <td align="center"><img src="https://img.shields.io/badge/In%20Progress-blue" alt="In Progress"></td>
+  <td align="center">📝 Drafting</td>
+  <td align="center">2026</td>
+</tr>
+
 <tr>
   <td align="center"><b>4</b></td>
   <td><b>Residual Diagnostics for Model Checking in Cox-Based Deep Survival Models</b></td>
-  <td><i>Statistics in Medicine</i></td>
+  <td><i>TBD</i></td>
   <td align="center">🥇 Q1</td>
   <td align="center"><img src="https://img.shields.io/badge/In%20Progress-blue" alt="In Progress"></td>
   <td align="center">📝 Drafting</td>
