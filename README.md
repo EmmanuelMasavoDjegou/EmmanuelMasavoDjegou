@@ -74,7 +74,7 @@ A curated archive of abstracts, author contributions, and methodological develop
 <tbody>
 
 <tr>
-  <td align="center"><b>5</b></td>
+  <td align="center"><b>6</b></td>
   <td><b>Time-Windowed Integrated Gradients for Explaining Restricted Mean Survival Predictions</b></td>
   <td><i>TBD</i></td>
   <td align="center">TBD</td>
