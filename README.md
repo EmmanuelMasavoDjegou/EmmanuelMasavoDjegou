@@ -22,10 +22,10 @@
 
 <div align="center">
 
-![Total Papers](https://img.shields.io/badge/Total%20Papers-5-6f42c1?style=for-the-badge&logo=bookstack&logoColor=white)
+![Total Papers](https://img.shields.io/badge/Total%20Papers-6-6f42c1?style=for-the-badge&logo=bookstack&logoColor=white)
 ![Q1 Journals](https://img.shields.io/badge/Q1%20Journals-2-2ea44f?style=for-the-badge)
 ![Q2 Journals](https://img.shields.io/badge/Q2%20Journals-1-f4a825?style=for-the-badge)
-![In Progress](https://img.shields.io/badge/In%20Progress-2-0ea5e9?style=for-the-badge)
+![In Progress](https://img.shields.io/badge/In%20Progress-3-0ea5e9?style=for-the-badge)
 ![Active Year](https://img.shields.io/badge/Active%20Year-2026-343a40?style=for-the-badge)
 
 </div>
@@ -73,6 +73,15 @@ A curated archive of abstracts, author contributions, and methodological develop
 
 <tbody>
 
+<tr>
+  <td align="center"><b>5</b></td>
+  <td><b>Time-Windowed Integrated Gradients for Explaining Restricted Mean Survival Predictions</b></td>
+  <td><i>TBD</i></td>
+  <td align="center">TBD</td>
+  <td align="center"><img src="https://img.shields.io/badge/In%20Progress-blue" alt="In Progress"></td>
+  <td align="center">📝 Drafting</td>
+  <td align="center">2026</td>
+</tr>
 
 <tr>
   <td align="center"><b>5</b></td>
